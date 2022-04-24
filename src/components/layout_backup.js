@@ -13,11 +13,20 @@ import Header from "./header"
 import "./layout.css"
 
 const Layout = ({ children }) => {
+  const data = useStaticQuery(graphql`
+    query SiteTitleQuery {
+      site {
+        siteMetadata {
+          title
+        }
+      }
+    }
+  `)
 
   return (
-    <div className="flex flex-col min-h-screen bg-gray-800 text-white">
+    <div className="flex flex-col h-screen justify-between bg-gray-800 text-white">
       <Header siteTitle={`márton münz's website`} />
-      <div className="p-8 flex-grow mr-40">
+      <div className="h-full p-8">
         <main>{children}</main>
       </div>
       <div>     
