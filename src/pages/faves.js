@@ -25,10 +25,6 @@ const FavesPage = () => (
           <p className="p-0 my-2">● Steve Jobs (by Walter Isaacson)</p> 
       </div>
 
-
-
-
-
       <div className="pt-2">
           <p className="text-2xl my-3">Movies:</p>
           <p className="p-0 my-2">● Being John Malkovich (1999 - American Comedy/Fantasy)</p> 
