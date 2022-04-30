@@ -10,7 +10,7 @@ export default function BlogPostTemplate({ data: { markdownRemark } }) {
     <Layout>
       <Seo title={frontmatter.title} />
       <p className="text-3xl mb-0">{frontmatter.title}</p>
-      <div className="mb-6 mt-1">
+      <div className="mb-7 mt-1">
         <span className="text-lg text-yellow-200">{frontmatter.date+" | "}</span>
         <Link to="/" className="text-lg text-yellow-200">{frontmatter.category}</Link>
       </div>

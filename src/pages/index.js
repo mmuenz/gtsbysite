@@ -27,7 +27,7 @@ const IndexPage = () => (
           />
 
         <p className="my-2">
-          Wanna know more? Check out <Link to="/funfacts" className="underline decoration-yellow-300 font-medium">some fun facts about me</Link>, <Link to="/faves" className="underline decoration-yellow-300 font-medium">my favorite things</Link>, <Link to="/milestones" className="underline decoration-yellow-300 font-medium">milestones in my life</Link>, <Link to="/now" className="underline decoration-yellow-300 font-medium">what I'm up to these days</Link>, and some <Link to="/uses" className="underline decoration-yellow-300 font-medium"> digital tools I use</Link>.
+          Interested in more? Check out <Link to="/funfacts" className="underline decoration-yellow-300 font-medium">some fun facts about me</Link>, <Link to="/faves" className="underline decoration-yellow-300 font-medium">my favorite things</Link>, <Link to="/milestones" className="underline decoration-yellow-300 font-medium">milestones in my life</Link>, <Link to="/now" className="underline decoration-yellow-300 font-medium">what I'm up to these days</Link>, and some <Link to="/uses" className="underline decoration-yellow-300 font-medium"> digital tools I use</Link>.
           You can also have a peak into <Link to="/blog" className="underline decoration-yellow-300 font-medium">my blog</Link>, read about <Link to="/work" className="underline decoration-yellow-300 font-medium">my work</Link>, or learn about <Link to="/alport" className="underline decoration-yellow-300 font-medium">Alport Syndrome</Link>, the inherited kidney disease I live with. Thanks a lot for your interest! 🙂
         </p>
         </div>

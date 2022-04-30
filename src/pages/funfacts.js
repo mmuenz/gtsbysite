@@ -28,6 +28,12 @@ const FunFactsPage = () => (
 <p>
 ● I've seen the trip hop legend <a className="underline decoration-yellow-300 font-medium" href="https://www.youtube.com/watch?v=kbSTA5aEYBo">Tricky</a> performing live three times.</p>
 
+<p>
+● ...</p>
+
+<p>
+● ...</p>
+
 
   </Layout>
 )

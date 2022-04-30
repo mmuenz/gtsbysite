@@ -9,7 +9,7 @@ const FavesPage = () => (
   <Layout>
     <Seo title="Faves" />
     
-    <p className="text-3xl">My favorites</p>
+    <p className="text-3xl">Things I liked and recommend</p>
     <div>
         <p>Blabla.</p>
        <div className="pt-1">
@@ -23,6 +23,8 @@ const FavesPage = () => (
           <p className="p-0 my-2">● The Pragmatic Programmer (by Andy Hunt and Dave Thomas)</p> 
           <p className="p-0 my-2">● Eloquent JavaScript (by Marijn Haverbeke)</p> 
           <p className="p-0 my-2">● Steve Jobs (by Walter Isaacson)</p> 
+          <p className="p-0 my-2">● Anything You Want (by Derek Sivers)</p> 
+          
       </div>
 
       <div className="pt-2">
@@ -57,9 +59,12 @@ const FavesPage = () => (
      
       <div className="pt-1">
           <p className="text-2xl my-3">Articles:</p>
-          <p className="p-0 my-2">● <a href="https://web.stanford.edu/~fukamit/schwartz-2008.pdf" className=" underline decoration-yellow-300 font-medium">The importance of stupidity in scientific research</a> (Journal of Cell Science)</p> 
-          <p className="p-0 my-2">● <a href="https://www.theguardian.com/world/2019/sep/20/walking-friendship-tiramisu-genoa-centenarians-secrets-longevity" className=" underline decoration-yellow-300 font-medium">Walking, friendship and tiramisu: Genoa’s centenarians share secrets of longevity</a> (The Guardian)</p> 
-          <p className="p-0 my-2">● <a href="https://www.nytimes.com/2010/01/10/weekinreview/10stone.html" className=" underline decoration-yellow-300 font-medium">The Children of Cyberspace: Old Fogies by Their 20s</a> (The New York Times)</p>
+          <p className="p-0 my-2">● The importance of stupidity in scientific research (<a href="https://web.stanford.edu/~fukamit/schwartz-2008.pdf" className=" underline decoration-yellow-300 font-medium">Read it</a> in the  <span className="italic">Journal of Cell Science</span>)</p> 
+          <p className="p-0 my-2">● Walking, friendship and tiramisu: Genoa’s centenarians share secrets of longevity (<a href="https://www.theguardian.com/world/2019/sep/20/walking-friendship-tiramisu-genoa-centenarians-secrets-longevity" className=" underline decoration-yellow-300 font-medium">Read it</a> in <span className="italic">The Guardian</span>)</p> 
+          <p className="p-0 my-2">● The Children of Cyberspace: Old Fogies by Their 20s (<a href="https://www.nytimes.com/2010/01/10/weekinreview/10stone.html" className=" underline decoration-yellow-300 font-medium">Read it</a> in <span className="italic">The New York Times</span>)</p>
+          <p className="p-0 my-2">● Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives (<a href="https://www.themarginalian.org/2014/01/29/carol-dweck-mindset/" className=" underline decoration-yellow-300 font-medium">Read it</a> in <span className="italic">The Marginalian</span>)</p>
+
+
       </div>
       
 

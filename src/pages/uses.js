@@ -7,7 +7,7 @@ import Seo from "../components/seo"
 const UsesPage = () => (
   <Layout>
     <Seo title="Uses" />
-    <p className="text-3xl">Some digital tools I use</p>
+    <p className="text-3xl">Digital tools I use</p>
     <div>
         <p>This page was inspired by <a className="underline decoration-yellow-300 font-medium" href="https://wesbos.com/uses">this</a> and this.</p>
        <div className="pt-1">
@@ -42,7 +42,7 @@ const UsesPage = () => (
           <p className="text-2xl my-3">Development:</p>
           <p className="p-0 my-2">● <a href="https://code.visualstudio.com/" className="underline decoration-yellow-300 font-medium">Visual Studio Code</a> </p> 
           <p className="p-0 my-2">● <a href="https://www.notion.so/" className="underline decoration-yellow-300 font-medium">React, Tailwind, etc (Strapi?)</a> </p> 
-          <p className="p-0 my-2">● <a href="https://www.gatsbyjs.com/" className="underline decoration-yellow-300 font-medium">Gatsby</a> (this website was built in Gatsby)</p> 
+          <p className="p-0 my-2">● <a href="https://www.gatsbyjs.com/" className="underline decoration-yellow-300 font-medium">Gatsby</a> (this simple website was built in Gatsby)</p> 
           <p className="p-0 my-2">● <a href="https://www.docker.com/" className="underline decoration-yellow-300 font-medium">Docker</a> </p> 
       </div>
 

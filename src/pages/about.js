@@ -9,7 +9,7 @@ const AboutPage = () => (
   <Layout>
     <Seo title="About" />
     
-    <p className="text-3xl">About me</p>
+    <p className="text-3xl mb-7">About me</p>
     <div className="pr-20">
     <p>
       ● I'm Dr. Márton Münz, a computational biologist and bioinformatician. 🧬
@@ -51,6 +51,7 @@ const AboutPage = () => (
       See also:
     </span>
     <div><Link className=" underline decoration-yellow-300 font-medium" to="/milestones">Milestones in my life</Link></div>
+    <div><Link className=" underline decoration-yellow-300 font-medium" to="/manifesto">My personal manifesto</Link></div>
     <div><Link className=" underline decoration-yellow-300 font-medium" to="/funfacts">Fun facts about me</Link></div>
     <div><Link className=" underline decoration-yellow-300 font-medium" to="/faves">My favorite things</Link></div>
     <div><Link className=" underline decoration-yellow-300 font-medium" to="/uses">Some digital tools I use</Link></div>

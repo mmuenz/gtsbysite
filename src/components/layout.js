@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
   return (
     <div className="flex flex-col min-h-screen bg-gray-800 text-white">
       <Header siteTitle={`márton münz's website`} />
-      <div className="p-8 flex-grow mr-40">
+      <div className="p-8 flex-grow mr-40 max-w-3xl">
         <main>{children}</main>
       </div>
       <div>     

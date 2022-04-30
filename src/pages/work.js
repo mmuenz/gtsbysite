@@ -8,8 +8,8 @@ import Seo from "../components/seo"
 const WorkPage = () => (
   <Layout>
     <Seo title="Work" />
-    <p className="font-serif text-3xl">Work</p>
-
+    <p className="font-serif text-3xl mb-7">Work</p>
+    blablabla ..
   </Layout>
 )
 
