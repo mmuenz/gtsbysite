@@ -13,6 +13,7 @@ export default function BlogPostTemplate({ data: { markdownRemark } }) {
       <div className="mb-7 mt-1">
         <span className="text-lg text-yellow-200">{frontmatter.date+" | "}</span>
         <Link to="/" className="text-lg text-yellow-200">{frontmatter.category}</Link>
+        <span className="text-lg text-yellow-200">  - 5 min read</span>
       </div>
       
       <div className="post-body" dangerouslySetInnerHTML={{ __html: html }} />

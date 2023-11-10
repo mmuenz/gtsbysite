@@ -4,6 +4,7 @@ import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import YearBlock2023 from "../components/YearBlock2023"
 import YearBlock from "../components/YearBlock"
 
 const BlogPage = () => (
@@ -11,16 +12,9 @@ const BlogPage = () => (
     <Seo title="Blog" />
     <p className="text-3xl mb-7">Blog</p>
 
-        <p>blabla blabla blabla ... </p>
+    <p>blabla blabla blabla ... </p>
 
-        <YearBlock year="2022"></YearBlock>
-
-        <YearBlock year="2021"></YearBlock>
-
-        <YearBlock year="2020"></YearBlock>
-
-
-
+    <YearBlock2023 />
   </Layout>
 )
 

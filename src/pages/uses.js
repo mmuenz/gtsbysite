@@ -7,67 +7,384 @@ import Seo from "../components/seo"
 const UsesPage = () => (
   <Layout>
     <Seo title="Uses" />
-    <p className="text-3xl">Digital tools I use</p>
+    <p className="text-3xl">My digital toolbox</p>
     <div>
-        <p>This page was inspired by <a className="underline decoration-yellow-300 font-medium" href="https://wesbos.com/uses">this</a> and this.</p>
-       <div className="pt-1">
-          <p className="text-2xl my-3">Note taking:</p>
-          <p className="p-0 my-2">● <a href="https://obsidian.md/" className="underline decoration-yellow-300 font-medium">Obsidian</a> as my "second brain"</p> 
-          <p className="p-0 my-2">● <a href="https://www.notion.so/" className="underline decoration-yellow-300 font-medium">Notion</a>  for collaboration</p> 
+      <p>
+        On this page (inspired by web pages such as{" "}
+        <a
+          className="underline decoration-yellow-300 font-medium"
+          href="https://wesbos.com/uses"
+        >
+          this
+        </a>
+        ,{" "}
+        <a
+          className="underline decoration-yellow-300 font-medium"
+          href="https://uses.tech/"
+        >
+          this
+        </a>
+        , and{" "}
+        <a
+          className="underline decoration-yellow-300 font-medium"
+          href="https://usesthis.com/"
+        >
+          this
+        </a>
+        ), you can find a list of digital tools I use every day.
+      </p>
+      <div className="pt-1">
+        <p className="text-2xl my-3">Note taking:</p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://obsidian.md/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Obsidian
+          </a>{" "}
+          as a "second brain"
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://www.notion.so/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Notion
+          </a>{" "}
+          for collaboration
+        </p>
       </div>
 
       <div className="pt-2">
-          <p className="text-2xl my-3">Productivity tools:</p>
-          <p className="p-0 my-2">● <a href="https://www.alfredapp.com/" className="underline decoration-yellow-300 font-medium">Alfred</a> (currently experimenting with <a href="https://www.raycast.com/" className="underline decoration-yellow-300 font-medium">Raycast</a>)</p> 
-          <p className="p-0 my-2">● <a href="https://raindrop.io/" className="underline decoration-yellow-300 font-medium">Raindrop.io</a></p> 
-          <p className="p-0 my-2">● <a href="https://ifttt.com/" className="underline decoration-yellow-300 font-medium">IFTTT</a></p> 
-          <p className="p-0 my-2">● <a href="https://www.lastpass.com/" className="underline decoration-yellow-300 font-medium">LastPass</a></p> 
+        <p className="text-2xl my-3">Productivity tools:</p>
+
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://openai.com/product/gpt-4"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            ChatGPT
+          </a>{" "}
+          for everything
+        </p>
+
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://www.alfredapp.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Alfred
+          </a>{" "}
+          for searching and launching apps
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://raindrop.io/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Raindrop
+          </a>{" "}
+          for organizing my bookmarks
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://ifttt.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            IFTTT
+          </a>{" "}
+          for automation
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://www.lastpass.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            LastPass
+          </a>{" "}
+          for password managment
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://www.instapaper.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Instapaper
+          </a>{" "}
+          for bookmarking articles
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Microsoft Outlook
+          </a>{" "}
+          as calendar app
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://netnewswire.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            NetNewsWire
+          </a>{" "}
+          as RSS Reader
+        </p>
       </div>
 
       <div className="pt-2">
-          <p className="text-2xl my-3">Terminal and shell:</p>
-          <p className="p-0 my-2">● <a href="https://iterm2.com/" className="underline decoration-yellow-300 font-medium">iTerm2</a></p> 
-          <p className="p-0 my-2">● <a href="https://en.wikipedia.org/wiki/Z_shell" className="underline decoration-yellow-300 font-medium">Z shell (zsh)</a> with <a href="https://ohmyz.sh/" className="underline decoration-yellow-300 font-medium">oh-my-zsh</a> (<a className="underline decoration-yellow-300 font-medium" href="https://github.com/agnoster/agnoster-zsh-theme">agnoster theme</a>) </p> 
+        <p className="text-2xl my-3">Terminal and shell:</p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://iterm2.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            iTerm2
+          </a>{" "}
+          as my main terminal
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://en.wikipedia.org/wiki/Z_shell"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Z shell (zsh)
+          </a>{" "}
+          with{" "}
+          <a
+            href="https://ohmyz.sh/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            oh-my-zsh
+          </a>{" "}
+          (
+          <a
+            className="underline decoration-yellow-300 font-medium"
+            href="https://github.com/agnoster/agnoster-zsh-theme"
+          >
+            agnoster theme
+          </a>
+          ){" "}
+        </p>
       </div>
 
       <div className="pt-2">
-          <p className="text-2xl my-3">Remote working tools:</p>
-          <p className="p-0 my-2">● <a href="https://slack.com/" className="underline decoration-yellow-300 font-medium">Slack</a> </p> 
-          <p className="p-0 my-2">● <a href="https://clockify.me/" className="underline decoration-yellow-300 font-medium">Clockify</a> </p> 
-          <p className="p-0 my-2">● <a href="https://zoom.us/" className="underline decoration-yellow-300 font-medium">Zoom</a> </p> 
-          <p className="p-0 my-2">● <a href="https://cyberduck.io/" className="underline decoration-yellow-300 font-medium">Cyberduck</a> </p> 
+        <p className="text-2xl my-3">Remote working tools:</p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://slack.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Slack
+          </a>{" "}
+          for team communication
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://clockify.me/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Clockify
+          </a>{" "}
+          for time tracking
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://zoom.us/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Zoom
+          </a>{" "}
+          for meetings
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://cyberduck.io/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Cyberduck
+          </a>{" "}
+          as an FTP/SFTP client
+        </p>
       </div>
 
       <div className="pt-2">
-          <p className="text-2xl my-3">Development:</p>
-          <p className="p-0 my-2">● <a href="https://code.visualstudio.com/" className="underline decoration-yellow-300 font-medium">Visual Studio Code</a> </p> 
-          <p className="p-0 my-2">● <a href="https://www.notion.so/" className="underline decoration-yellow-300 font-medium">React, Tailwind, etc (Strapi?)</a> </p> 
-          <p className="p-0 my-2">● <a href="https://www.gatsbyjs.com/" className="underline decoration-yellow-300 font-medium">Gatsby</a> (this simple website was built in Gatsby)</p> 
-          <p className="p-0 my-2">● <a href="https://www.docker.com/" className="underline decoration-yellow-300 font-medium">Docker</a> </p> 
+        <p className="text-2xl my-3">Development:</p>
+
+        <p className="p-0 my-2">
+          ● Python, JavaScript, R as programming languages
+        </p>
+
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://code.visualstudio.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Visual Studio Code
+          </a>{" "}
+          for code editing
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://react.dev/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            React
+          </a>
+          {", "}
+          <a
+            href="https://tailwindcss.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Tailwind CSS
+          </a>
+          {", "}
+          <a
+            href="https://expressjs.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Express
+          </a>{" "}
+          for web dev
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://www.gatsbyjs.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Gatsby
+          </a>{" "}
+          (this website was built with Gatsby)
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://posit.co/download/rstudio-desktop/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            RStudio
+          </a>{" "}
+          as an IDE for R
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://www.postman.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Postman
+          </a>{" "}
+          as an API platform
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://www.docker.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Docker
+          </a>{" "}
+          as containerization tool
+        </p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://www.mongodb.com/atlas/database"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            MongoDB Atlas
+          </a>{" "}
+          as cloud database
+        </p>
+
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://github.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            GitHub
+          </a>{" "}
+          as version control platform
+        </p>
+
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://aws.amazon.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            AWS
+          </a>{" "}
+          as a cloud computing platform
+        </p>
       </div>
 
       <div className="pt-2">
-          <p className="text-2xl my-3">Other:</p>
-          <p className="p-0 my-2">● <a href="https://neuracache.com/" className="underline decoration-yellow-300 font-medium">Neuracache</a> for spaced repetition learning</p> 
-       
+        <p className="text-2xl my-3">Other:</p>
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://apps.ankiweb.net/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Anki
+          </a>{" "}
+          for spaced repetition learning
+        </p>
+
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="http://udemy.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Udemy
+          </a>{" "}
+          for online learning
+        </p>
+
+        <p className="p-0 my-2">
+          ●{" "}
+          <a
+            href="https://porkbun.com/"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Porkbun
+          </a>{" "}
+          as domain registrar
+        </p>
       </div>
 
       <div className="pt-2">
-          <p className="text-2xl my-3">Hardware:</p>
-          <p className="p-0 my-2">● MacBook Pro (13-inch, M1, 2020), 512 GB SSD</p> 
-          <p className="p-0 my-2">● Samsung 27" LED Display</p> 
-          <p className="p-0 my-2">● Apple keyboard</p> 
+        <p className="text-2xl my-3">Hardware:</p>
+        <p className="p-0 my-2">
+          ● MacBook Pro (13-inch, M1, 2020), 512 GB SSD
+        </p>
+        <p className="p-0 my-2">● Samsung 27" LED Display</p>
+        <p className="p-0 my-2">● Keychron K2 Pro mechanical keyboard</p>
       </div>
-
-
-
-      
-
     </div>
-      
-      
-
-
   </Layout>
 )
 

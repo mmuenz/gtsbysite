@@ -1,8 +1,8 @@
 ---
 title: "What do bioinformaticians do all day?"
 slug: "/blog/what-do-bioinformaticians-do-all-day"
-date: "2022-04-24"
-category: "Tech"
+date: "2023-05-19"
+category: "Science"
 ---
 
 A második kézenfekvő ötlet a csere lehetne, ha a gasztronómiai értelemben élvezhető zsiradékok – a vaj és a zsír – nem lennének olyan rettentően drágák, még a megugró árú olajat is felülmúlják, a zsír ára kilónként 1200, a vajé 1700-1900 körüli áron mozog. Vannak persze olyan elvakult zsírgyűjtögetők, akik a leveseken, alapleveken és sült húsok alatt összegyűlő zsírokat kis dobozokban gyűjtögetik, de ehhez valóban nagyon elvetemültnek kell lenni.
