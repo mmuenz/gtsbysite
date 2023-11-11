@@ -359,8 +359,9 @@ const MilestonesPage = () => (
       </p>
     </div>
 
-    <Link className="text-yellow-200 text-md" to="/blogz">
-      | Back to Blog |
+    <br />
+    <Link className="text-yellow-200 text-md" to="/blog">
+      | Back |
     </Link>
   </Layout>
 )

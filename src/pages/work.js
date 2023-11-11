@@ -129,9 +129,20 @@ const WorkPage = () => (
         >
           Contact me
         </Link>
-        . I am more than happy to help.
+        , I am happy to help.
       </p>
     </dev>
+    <br />
+    <p>
+      Interested in learning more about my work?{" "}
+      <Link
+        to="/workdetails"
+        className=" underline decoration-yellow-300 font-medium"
+      >
+        Click here
+      </Link>
+      .
+    </p>
   </Layout>
 )
 

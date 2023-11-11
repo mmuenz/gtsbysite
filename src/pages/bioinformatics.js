@@ -1,12 +1,12 @@
 import * as React from "react"
-
+import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const AlportPage = () => (
   <Layout>
     <Seo title="Bioinformatics" />
-    <p className="text-3xl">What is Bioinformatics?</p>
+    <p className="text-3xl">What the hell is Bioinformatics?</p>
     <p>
       Bioinformatics is an interdisciplinary field that combines biology,
       computer science, and mathematics/statistics to analyze and interpret
@@ -51,9 +51,9 @@ const AlportPage = () => (
       gain insights into the functions of genes and proteins, identify
       disease-causing mutations, and develop new therapeutic strategies.
     </p>
-    <p className="text-yellow-300">
+    <Link to="/bioinformatics-more" className="text-yellow-300">
       Click here to read more, if you are interested.
-    </p>
+    </Link>
   </Layout>
 )
 

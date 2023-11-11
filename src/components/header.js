@@ -25,7 +25,7 @@ const Header = ({ siteTitle }) => (
           work
         </Link>
         <Link
-          to="/blogz"
+          to="/blog"
           className="p-2 underline decoration-yellow-300 text-white"
         >
           blog

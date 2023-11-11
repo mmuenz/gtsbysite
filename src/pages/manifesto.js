@@ -81,8 +81,8 @@ const ManifestoPage = () => (
       <br />
     </div>
 
-    <Link className="text-yellow-200 text-md" to="/blogz">
-      | Back to Blog |
+    <Link className="text-yellow-200 text-md" to="/blog">
+      | Back |
     </Link>
   </Layout>
 )
