@@ -7,74 +7,56 @@ import Seo from "../components/seo"
 import YearBlock2023 from "../components/YearBlock2023"
 import YearBlock from "../components/YearBlock"
 
+import BlogPost from "../components/BlogPost"
+
 const BlogPage = () => (
   <Layout>
     <Seo title="Blog" />
     <p className="text-3xl mb-7">Blog</p>
 
-    <p className=" text-xl">2023:</p>
+    <p className=" text-xl px-1">2023:</p>
 
-    <div className="mt-1 ml-12">
-      <Link to="/television">
-        <span className="pr-4 text-md">Nov 11</span>
-        <span className="text-yellow-200 text-md">The best television</span>
-        <span className="p-2 text-md">|</span>
-        <span className=" text-md">Bcn, Life</span>
-      </Link>
-    </div>
+    <BlogPost
+      date="Nov 11"
+      title="The best television"
+      tags="Life, Bcn"
+      link="/television"
+    />
 
-    <div className="mt-1 ml-12">
-      <Link to="/humanoids">
-        <span className="pr-4 text-md">Sept 19</span>
-        <span className="text-yellow-200 text-md">
-          The illusion of making friends
-        </span>
-        <span className="p-2 text-md">|</span>
-        <span className=" text-md">Tech, Humans</span>
-      </Link>
-    </div>
+    <BlogPost
+      date="Sept 19"
+      title="The illusion of making friends"
+      tags="Tech, Humans"
+      link="/humanoids"
+    />
 
-    <div className="mt-1 ml-12">
-      <Link to="/coding">
-        <span className="pr-4 text-md">Jul 20</span>
-        <span className="text-yellow-200 text-md">
-          {" "}
-          Expanding my imagination with coding
-        </span>
-        <span className="p-2 text-md">|</span>
-        <span className=" text-md">Tech, Humans, Art</span>
-      </Link>
-    </div>
+    <BlogPost
+      date="Jul 20"
+      title="Expanding my imagination with coding"
+      tags="Tech, Humans, Art"
+      link="/coding"
+    />
 
-    <div className="mt-1 ml-12">
-      <Link to="/goodstory">
-        <span className="pr-4 text-md">May 24</span>
-        <span className="text-yellow-200 text-md">A good story to tell</span>
-        <span className="p-2 text-md">|</span>
-        <span className=" text-md">Life, Science</span>
-      </Link>
-    </div>
+    <BlogPost
+      date="May 24"
+      title="A good story to tell"
+      tags="Life, Science"
+      link="/goodstory"
+    />
 
-    <div className="mt-1 ml-12">
-      <Link to="/memories">
-        <span className="pr-4 text-md">Apr 8 </span>
-        <span className="text-yellow-200 text-md">
-          {" "}
-          In loving memory of my first computer
-        </span>
-        <span className="p-2 text-md">|</span>
-        <span className=" text-md">Tech</span>
-      </Link>
-    </div>
+    <BlogPost
+      date="Apr 8"
+      title="In loving memory of my first computer"
+      tags="Tech"
+      link="/memories"
+    />
 
-    <div className="mt-1 ml-12">
-      <Link to="/manifesto">
-        <span className="pr-4 text-md">Jan 16</span>
-        <span className="text-yellow-200 text-md">A personal manifesto</span>
-        <span className="p-2 text-md">|</span>
-        <span className=" text-md">-</span>
-      </Link>
-    </div>
+    <BlogPost
+      date="Jan 16"
+      title="A personal manifesto"
+      tags="-"
+      link="/manifesto"
+    />
   </Layout>
 )
 

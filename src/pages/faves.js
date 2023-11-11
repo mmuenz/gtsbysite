@@ -145,13 +145,14 @@ const FavesPage = () => (
           </a>
           )
         </p>
+
         <p className="p-0 my-2">
-          ● The Children of Cyberspace: Old Fogies by Their 20s (
+          ● There’s no speed limit (
           <a
-            href="https://www.nytimes.com/2010/01/10/weekinreview/10stone.html"
+            href="https://sive.rs/kimo"
             className=" underline decoration-yellow-300 font-medium"
           >
-            The New York Times
+            Derek Sivers
           </a>
           )
         </p>
@@ -163,6 +164,17 @@ const FavesPage = () => (
             className=" underline decoration-yellow-300 font-medium"
           >
             Wait But Why
+          </a>
+          )
+        </p>
+
+        <p className="p-0 my-2">
+          ● Don't specialize, hybridize (
+          <a
+            href="https://stephango.com/hybridize"
+            className=" underline decoration-yellow-300 font-medium"
+          >
+            Steph Ango
           </a>
           )
         </p>

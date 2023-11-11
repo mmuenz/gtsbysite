@@ -159,10 +159,9 @@ const MilestonesPage = () => (
     </p>
     <p>
       I would even say my favourite part of my job as a computational biologist
-      is programming. Perhaps the daily routine of writing computer code can
-      become boring for professional developers, but thankfully I am amateur
-      enough to still get very excited every time I create an empty file and
-      start typing.{" "}
+      is programming. Perhaps the routine of writing computer code every day
+      might turn monotonous for seasoned developers, but thankfully I still get
+      very excited every time I create an empty file and start typing.{" "}
     </p>
     <p className="text-2xl">Imagination amplifiers</p>
     <p>

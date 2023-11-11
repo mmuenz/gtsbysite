@@ -11,7 +11,7 @@ const TelevisionPage = () => (
     <Seo title="Television" />
     <p className="text-3xl">The best television</p>
     <p className="text-yellow-300 text-md pb-2">
-      Nov 11 2023 | Bcn, Life - ... min read
+      Nov 11 2023 | Life, Bcn - ... min read
     </p>
 
     <p>
@@ -121,13 +121,26 @@ const TelevisionPage = () => (
     </p>
 
     <p>
-      My favourite spot for people-watching is a bench in Passaig de Sant Joan,
+      My favourite spot for people-watching is a bench in Passeig de Sant Joan,
       ...
     </p>
 
     <br />
     <p>---</p>
     <br />
+
+    <div align="center">
+      <StaticImage
+        src="../images/bcn.jpg"
+        width={650}
+        quality={95}
+        formats={["auto", "webp", "avif"]}
+        alt="prince"
+        style={{ marginBottom: `1.45rem` }}
+      />
+      <p>... Passeig de Sant Joan ...</p>
+    </div>
+
     <Link className="text-yellow-200 text-md" to="/blog">
       | Back |
     </Link>
