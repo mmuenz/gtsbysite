@@ -19,7 +19,7 @@ const BlogPage = () => (
     <BlogPost
       date="Nov 11"
       title="The best television"
-      tags="Life, Bcn"
+      tags="Life, Barcelona"
       link="/television"
     />
 
