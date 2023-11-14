@@ -357,14 +357,19 @@ const MilestonesPage = () => (
     <br />
 
     <div align="center">
-      <StaticImage
-        src="../images/prince.jpeg"
-        width={750}
-        quality={95}
-        formats={["auto", "webp", "avif"]}
-        alt="prince"
-        style={{ marginBottom: `1.45rem` }}
-      />
+      <a
+        href="https://www.wikihow.com/Use-DOSBox#/Image:1409794-17.jpg"
+        target="_blank"
+      >
+        <StaticImage
+          src="../images/prince.jpeg"
+          width={750}
+          quality={95}
+          formats={["auto", "webp", "avif"]}
+          alt="prince"
+          style={{ marginBottom: `1.45rem` }}
+        />
+      </a>
       <p>
         "Prince of Persia" running on DOSBox, a retro MS-DOS operating system
         emulator

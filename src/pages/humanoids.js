@@ -379,15 +379,20 @@ const MilestonesPage = () => (
     <br />
 
     <div align="center">
-      <StaticImage
-        src="../images/asimo.jpeg"
-        width={750}
-        quality={95}
-        formats={["auto", "webp", "avif"]}
-        alt="prince"
-        style={{ marginBottom: `1.45rem` }}
-      />
-      <p>ASIMO, Honda's Humanoid robot, triggers your social brain</p>
+      <a
+        target="_blank"
+        href="https://flickr.com/photos/32811347@N08/3719849359"
+      >
+        <StaticImage
+          src="../images/asimo.jpeg"
+          width={750}
+          quality={95}
+          formats={["auto", "webp", "avif"]}
+          alt="prince"
+          style={{ marginBottom: `1.45rem` }}
+        />
+        <p>ASIMO, Honda's Humanoid robot, triggers your social brain</p>
+      </a>
     </div>
     <div align="center">
       <StaticImage
