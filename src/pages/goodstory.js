@@ -203,7 +203,7 @@ const MilestonesPage = () => (
       (or simply, "bases"), the building blocks of the DNA molecule, just like a
       text in a book is a sequence of letters. However, there are only four
       different bases in the DNA ("A", "C", "G", and "T") , so the "text" in our
-      genome is made up of a 4 letter "alphabet". For example, a section of of
+      genome is made up of a 4 letter "alphabet". For example, a section of
       one's DNA sequence could be something like
       "...AGGCAGTCTAAAGCCAGATTGAAATGCCTTA...".
     </p>
@@ -355,8 +355,8 @@ const MilestonesPage = () => (
     </p>
 
     <p>
-      Alternatively, the variant in my COL4A5 gene could have resulted from a
-      *de novo* mutation in the germ cells or the fertilized egg during the
+      Alternatively, the variant in my COL4A5 gene could have resulted from a{" "}
+      <i>de novo</i> mutation in the germ cells or the fertilized egg during the
       early stages of my embryogenesis. The likelihood of this scenario is low
       considering that my mum also exhibits some symptoms. Sequencing her, too,
       would clarify this question.
@@ -399,7 +399,7 @@ const MilestonesPage = () => (
       In other words, while in the DNA a gene contains both exons and introns in
       between, introns are "spliced out" at the end, and only the exons are
       translated into protein. It's like a book having multiple chapters but
-      there are a lot of gibberish between every two consecutive chapters. when
+      there are a lot of gibberish between every two consecutive chapters. When
       the book actually gets printed, the gibberish are removed. (Of course,
       these "intron" sequences are not totally gibberish, biologically speaking,
       but they don't contain information about the protein chain to be

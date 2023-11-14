@@ -21,7 +21,7 @@ const MilestonesPage = () => (
       online.{" "}
     </p>
     <p>
-      As a computational biologist, I also use the laptop for data analysis and
+      As a computational biologist, I also use this laptop for data analysis and
       programming, launching{" "}
       <a
         href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager"
@@ -39,21 +39,19 @@ const MilestonesPage = () => (
       .
     </p>
     <p>
-      This computer also stores thousands of photos and videos of me and my
-      wife, memories of distant holidays, some of our favourite songs,
-      bookmarked links I want to revisit one day, my freelancer invoices, and my
-      completed tax forms. Recently, I bought an external monitor and a
-      mechanical keyboard. I love the clicking sound when I'm typing.
+      This laptop also stores thousands of photos and videos of me and my wife,
+      memories of distant holidays, some of our favourite songs, bookmarked
+      links I want to revisit one day, my freelancer invoices, and my completed
+      tax forms. Recently, I bought an external monitor and a mechanical
+      keyboard. I love the clicking sound when I'm typing.
     </p>
-    <p>
-      It's safe to say, my life, as a program, is currently running on this
-      laptop.
-    </p>
+    <p>It's safe to say, my life, as a program, is running on this laptop.</p>
     <p>
       I know people who can think of their computers merely as practical tools
-      and do not form any sentimental attachments to these devices. I'm not like
-      them. I tend to get emotional when it comes to thinking about my computer,
-      I see it as my companion, a friend, or worse, a member of my family.
+      and do not form any sentimental attachments to these devices. I'm not one
+      of them. I tend to get emotional when it comes to thinking about my
+      computer, I see it as my companion, a friend, or worse, a member of my
+      family.
     </p>
     <p>
       Usually I even give it a name. I called the computer I used for writing my
@@ -63,12 +61,12 @@ const MilestonesPage = () => (
       the name "Freddie", after the lead vocalist of Queen, another genius for
       his talent in both performance and songwriting. What is this if not a
       textbook example of{" "}
-      <a
-        href="https://en.wikipedia.org/wiki/Anthropomorphism"
+      <Link
+        href="/humanoids"
         className=" underline decoration-yellow-300 font-medium"
       >
         anthropomorphism
-      </a>
+      </Link>
       ?
     </p>
     <p>
@@ -106,7 +104,8 @@ const MilestonesPage = () => (
       Picture a kid, 10 years old, blissfully running around the house, not
       being able to contain his excitement. He is about to get his first
       computer as a birthday present. Moreover, his dad said it's not going to
-      be a Commodore 64 as originally planned, it's gonna be a shiny new IBM PC.
+      be a Commodore 64 as originally planned. No, it's gonna be a shiny new IBM
+      PC.
     </p>
     <p>
       The kid was me, the year was 1991. I was immensely happy, even though I
@@ -120,12 +119,13 @@ const MilestonesPage = () => (
       "Five in a Row". Later (on slightly better computers) other games too:
       "Lemmings", "Civilization", "Sokoban", and my favorite, "Prince of
       Persia". I was driving cars, kicking balls, playing cards, fighting with
-      swords, running, jumping, flying. I was not afraid of anything. I liked
-      having three lives.
+      swords, running, jumping, flying. I was not afraid of anything. I had, and
+      liked having three lives.
     </p>
     <p>
-      My best friend, Köki, came over regularly, and shouted so loud during a
-      soccer game against the computer, that our neighbours alerted the police.
+      My best friend, Köki, came over regularly, and one time he shouted so loud
+      during a soccer game against the computer, that our neighbours alerted the
+      police.
     </p>
     <p>
       After a while I learned to use the MS-DOS command line. I entered
@@ -145,8 +145,9 @@ const MilestonesPage = () => (
       >
         Turbo Pascal
       </a>{" "}
-      programming language. I was especially proud of the part that generated a
-      random number between 1 and 6.
+      language - a programming language that is today considered extinct. I was
+      especially proud of the part that generated a random number between 1 and
+      6.
     </p>
     <p>
       The computer has also become a respected member of our family. At 12, I
@@ -211,7 +212,7 @@ const MilestonesPage = () => (
       "
     </p>
 
-    <p className="text-2xl">Never running out of memories</p>
+    <p className="text-2xl">Not running out of memories</p>
     <p>
       Where are you now, my first computer? I don't believe in reincarnation.
       You must be on some junkyard along with many other discarded machines, or
@@ -224,9 +225,21 @@ const MilestonesPage = () => (
       Retro Computer Museum in Leicester, England and The Computer History
       Museum in Mountain View, California, USA, there are several institutions
       dedicated to the memory of computers. Since we spend our lives in front of
-      the screen, computers are now part of our cultural heritage.
+      screens, computers are now part of our cultural heritage.
     </p>
-    <p></p>
+
+    <p className="text-2xl">There even is a word for it</p>
+    <p>
+      Why the computer museums, the retro computer emulators, and the increasing
+      fascination for extinct programming languages?
+    </p>
+    <p>
+      These are all manifestations of a phenomenon known as tech nostalgia (or
+      in one word: "technostalgia"), which is defined by Wiktionary as "fond
+      reminiscence of, or longing for, outdated technology".
+    </p>
+    <p>Longing for technology that once we thought were cool.</p>
+    <p className="text-2xl">My playlist</p>
     <p>
       While looking through the old IBM User Manual, I'm opening a new tab in my
       web browser to start one of my Youtube playlists in the background. It is
@@ -287,14 +300,17 @@ const MilestonesPage = () => (
         Beam myself into the future"
       </i>
     </p>
+
+    <p className="text-2xl">Can you simulate a soul?</p>
+
     <p>
-      Indeed, let's jump back to the future (i.e. recent past). Fourteen years
-      after our online rendezvous in that virtual chat room, my wife and I went
-      to see a concert by the Icelandic musician, Jóhann Jóhannsson. He played
-      his new studio album, Orphée, and it was brilliant. We were heartbroken to
-      hear the tragic news of him passing away only 10 days later. I have added
-      Jóhannsson, too, to my computer-inspired playlist. A few songs from his
-      fourth full-length studio album, titled{" "}
+      Indeed, let's beam ourselves back to the future (i.e. recent past).
+      Fourteen years after our online rendezvous in that virtual chat room, my
+      wife and I went to see a concert by the Icelandic musician, Jóhann
+      Jóhannsson. He played his new studio album, Orphée, and it was brilliant.
+      We were heartbroken to hear the tragic news of him passing away only 10
+      days later. I have added Jóhannsson, too, to my computer-inspired
+      playlist. A few songs from his fourth full-length studio album, titled{" "}
       <a
         href="https://www.youtube.com/watch?v=QcmdbMICKDs"
         className=" underline decoration-yellow-300 font-medium"
@@ -316,33 +332,22 @@ const MilestonesPage = () => (
       close" - wrote Sal Cinquemani, co-founder and co-editor of Slant Magazine.
     </p>
     <p>
-      Back to the year 2023. I continue to be fairly excited about computers. It
+      Back to the year 2023. I continue to be very excited about computers. It
       is also the year when the general public met AI for the first time. Many
       think machines are getting frighteningly close to mimic human
       intelligence. Some fear computers becoming autonomous.
     </p>
     <p>
-      It is scary indeed. I want to believe what I read on the first page of the
-      user manual of my first IBM PC: we, humans are still the key element in a
-      properly functioning computer system. We are the ones who plug it
-      together, and hopefully, we will be able to unplug it, when it's time.
+      Scary indeed. I want to believe what I read at the age of 10 on the first
+      page of the user manual of my first IBM PC: we, humans are still the key
+      element in a properly functioning computer system. We are the ones who
+      plug it together.
     </p>
+    <p> And hopefully, we will also be able to unplug it, when it's time.</p>
 
     <br />
     <p>---</p>
     <br />
-
-    <div align="center">
-      <StaticImage
-        src="../images/dos.png"
-        width={750}
-        quality={95}
-        formats={["auto", "webp", "avif"]}
-        alt="prince"
-        style={{ marginBottom: `1rem` }}
-      />
-      <p>MS-DOS command line prompt</p>
-    </div>
 
     <div align="center">
       <StaticImage
@@ -354,7 +359,7 @@ const MilestonesPage = () => (
         style={{ marginBottom: `1.45rem` }}
       />
       <p>
-        "Prince of Persia" running on DOSBox, an MS-DOS operating system
+        "Prince of Persia" running on DOSBox, a retro MS-DOS operating system
         emulator
       </p>
     </div>

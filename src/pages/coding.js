@@ -178,7 +178,7 @@ const MilestonesPage = () => (
       called them "imagination amplifiers".{" "}
     </p>
     <p>
-      Kay believed that rather then using computers as tools for executing
+      Kay believed that rather than using computers as tools for executing
       tasks, we should use them for extending the horizon of our own
       imagination. His dream was to develop computers into a personal dynamic
       medium for creativity.{" "}

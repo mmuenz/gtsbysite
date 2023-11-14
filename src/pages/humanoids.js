@@ -20,7 +20,7 @@ const MilestonesPage = () => (
         href="https://www.youtube.com/watch?v=VTlV0Y5yAww"
         className=" underline decoration-yellow-300 font-medium"
       >
-        fell down the stairs.
+        fell off the stairs.
       </a>{" "}
     </p>
     <p>
@@ -245,7 +245,7 @@ const MilestonesPage = () => (
     <p>
       Although the appearance of the robot seems to be a key factor (especially
       its facial features), machines doesn't need to be fully human-like. As
-      discussed above, we have a weird ability anthropomorphize basically
+      discussed above, we have a weird ability to anthropomorphize basically
       anything, even things that don't even remotely resemble a human being.
     </p>
     <p>
@@ -355,7 +355,7 @@ const MilestonesPage = () => (
     <p>
       {" "}
       In fact, probably nothing makes ASIMO more human-like than the fact that
-      he fell down the stairs.{" "}
+      he fell off the stairs.{" "}
     </p>
     <p>
       {" "}

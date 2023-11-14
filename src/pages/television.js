@@ -18,7 +18,7 @@ const TelevisionPage = () => (
       At home, we have Netflix. We have Amazon Prime Videos. We have Filmin. We
       have Orange TV with I-don't-know-how-many channels. We have RTVE Play. We
       have iTunes. And of course, we have the Youtube app installed on our smart
-      TV. I'm personally subscribed to 614 Youtube channels. My wife a couple
+      TV. I'm personally subscribed to 614 Youtube channels. My wife a few
       hundreds more.
     </p>
     <p>
@@ -91,8 +91,9 @@ const TelevisionPage = () => (
       You will see two friends carrying a heavy sofa they have just bought on
       Wallapop, a local app for buying and selling secondhand items. You will
       see mothers standing next to the playground, discussing their weekend
-      plans, while their kids crawl in the dirt. You will see another elderly
-      couple holding hands, watching the confectionery store's display window.
+      plans, while their kids are crawling in the dirt. You will see another
+      elderly couple holding hands, watching the confectionery store's display
+      window.
     </p>
 
     <p>
