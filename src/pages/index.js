@@ -19,8 +19,14 @@ const IndexPage = () => (
         >
           Bioinformatician
         </Link>{" "}
-        who enjoys writing. I'm currently based in Barcelona, Spain, but was
-        born in Budapest. I have also lived 8 and a 1/2 years in Oxford,
+        who enjoys writing. I'm currently based in{" "}
+        <Link
+          to="/television"
+          className="underline decoration-yellow-300 font-medium"
+        >
+          Barcelona
+        </Link>
+        , Spain, but was born in Budapest. I have also lived 8 years in Oxford,
         England.
       </p>
 

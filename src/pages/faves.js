@@ -172,6 +172,7 @@ const FavesPage = () => (
           ● Don't specialize, hybridize (
           <a
             href="https://stephango.com/hybridize"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Steph Ango
@@ -183,6 +184,7 @@ const FavesPage = () => (
           ● Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives (
           <a
             href="https://www.themarginalian.org/2014/01/29/carol-dweck-mindset/"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             The Marginalian
@@ -212,6 +214,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Traversy Media
@@ -223,6 +226,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             freeCodeCamp.org
@@ -234,6 +238,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/@sentdex"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             sentdex
@@ -245,6 +250,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/@PedroTechnologies"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             PedroTech
@@ -256,6 +262,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             HPC Tech Shorts
@@ -267,6 +274,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             ColdFusion
@@ -278,6 +286,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/@TwoMinutePapers"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Two Minute Papers
@@ -289,6 +298,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Singularity Weblog
@@ -300,6 +310,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/@MITMediaLab"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             MIT Media Lab
@@ -311,6 +322,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/@technologyreview"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             MIT Technology Review
@@ -322,6 +334,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UCMAQTBPIm_0zRgTQVjS2NIA"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             The James Kalm Report
@@ -333,6 +346,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UCY2mhw-XNZSxrUynsI5K8Zw"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Louisiana Channel
@@ -344,6 +358,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://youtube.com/@jameskalmroughcut"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             James Kalm Rough Cut
@@ -355,6 +370,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UC3I2GFN_F8WudD_2jUZbojA"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             KEXP
@@ -366,6 +382,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UC-smeLB9AnOTeypr1YyjJ3A"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             ARTE Concert
@@ -377,6 +394,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/@BBCMusic"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             BBC Music
@@ -388,6 +406,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UCnTsUMBOA8E-OHJE-UrFOnA"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Samuel and Audrey
@@ -399,6 +418,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/@leaw"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Leave Everything and Wander
@@ -410,6 +430,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/@LifeWhereImFrom"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Life Where I'm From
@@ -421,6 +442,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UC_zQ777U6YTyatP3P1wi3xw"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Never Too Small
@@ -431,6 +453,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UCDsElQQt_gCZ9LgnW-7v-cQ"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Kirsten Dirksen
@@ -442,6 +465,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://youtube.com/@FloLum"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Flo Lum
@@ -453,6 +477,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UCETyhmgxupv93Ix4VnIiQJQ"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Italia Squisita
@@ -464,6 +489,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UCN1h109PDDp_wYIFsoWmZrQ"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Marion's Kitchen
@@ -475,6 +501,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/channel/UCedsqpl7jaIb8BiaUFuC9KQ"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Pasta Grannies
@@ -486,6 +513,7 @@ const FavesPage = () => (
           ●{" "}
           <a
             href="https://www.youtube.com/@JaujaCocinaMexicana"
+            target="_blank"
             className=" underline decoration-yellow-300 font-medium"
           >
             Jauja Cocina Mexicana

@@ -454,6 +454,7 @@ const MilestonesPage = () => (
       Who should learn programming? Steve Jobs had a{" "}
       <a
         href="https://www.youtube.com/watch?v=BRTOlPdyPYU"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         simple answer
@@ -503,6 +504,7 @@ const MilestonesPage = () => (
       instructions for humans" in{" "}
       <a
         href="https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         this article

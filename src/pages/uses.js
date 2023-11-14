@@ -14,6 +14,7 @@ const UsesPage = () => (
         <a
           className="underline decoration-yellow-300 font-medium"
           href="https://wesbos.com/uses"
+          target="_blank"
         >
           this
         </a>
@@ -21,6 +22,7 @@ const UsesPage = () => (
         <a
           className="underline decoration-yellow-300 font-medium"
           href="https://uses.tech/"
+          target="_blank"
         >
           this
         </a>
@@ -28,6 +30,7 @@ const UsesPage = () => (
         <a
           className="underline decoration-yellow-300 font-medium"
           href="https://usesthis.com/"
+          target="_blank"
         >
           this
         </a>
@@ -39,6 +42,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://obsidian.md/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Obsidian
@@ -49,6 +53,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://www.notion.so/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Notion
@@ -64,6 +69,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://openai.com/product/gpt-4"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             ChatGPT
@@ -75,6 +81,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://www.alfredapp.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Alfred
@@ -85,6 +92,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://raindrop.io/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Raindrop
@@ -95,6 +103,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://ifttt.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             IFTTT
@@ -105,6 +114,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://www.lastpass.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             LastPass
@@ -115,6 +125,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://www.instapaper.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Instapaper
@@ -125,6 +136,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Microsoft Outlook
@@ -135,6 +147,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://netnewswire.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             NetNewsWire
@@ -149,6 +162,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://iterm2.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             iTerm2
@@ -159,6 +173,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://en.wikipedia.org/wiki/Z_shell"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Z shell (zsh)
@@ -166,6 +181,7 @@ const UsesPage = () => (
           with{" "}
           <a
             href="https://ohmyz.sh/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             oh-my-zsh
@@ -174,6 +190,7 @@ const UsesPage = () => (
           <a
             className="underline decoration-yellow-300 font-medium"
             href="https://github.com/agnoster/agnoster-zsh-theme"
+            target="_blank"
           >
             agnoster theme
           </a>
@@ -197,6 +214,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://clockify.me/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Clockify
@@ -207,6 +225,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://zoom.us/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Zoom
@@ -217,6 +236,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://cyberduck.io/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Cyberduck
@@ -236,6 +256,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://code.visualstudio.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Visual Studio Code
@@ -246,6 +267,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://react.dev/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             React
@@ -253,6 +275,7 @@ const UsesPage = () => (
           {", "}
           <a
             href="https://tailwindcss.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Tailwind CSS
@@ -260,6 +283,7 @@ const UsesPage = () => (
           {", "}
           <a
             href="https://expressjs.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Express
@@ -270,6 +294,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://www.gatsbyjs.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Gatsby
@@ -280,6 +305,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://posit.co/download/rstudio-desktop/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             RStudio
@@ -290,6 +316,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://www.postman.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Postman
@@ -300,6 +327,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://www.docker.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Docker
@@ -310,6 +338,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://www.mongodb.com/atlas/database"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             MongoDB Atlas
@@ -321,6 +350,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://github.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             GitHub
@@ -332,6 +362,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://aws.amazon.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             AWS
@@ -346,6 +377,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://apps.ankiweb.net/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Anki
@@ -357,6 +389,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="http://udemy.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Udemy
@@ -368,6 +401,7 @@ const UsesPage = () => (
           ●{" "}
           <a
             href="https://porkbun.com/"
+            target="_blank"
             className="underline decoration-yellow-300 font-medium"
           >
             Porkbun

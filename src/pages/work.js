@@ -38,6 +38,7 @@ const WorkPage = () => (
     Performance Computing), and Cloud Computing. At present, I work for{" "}
     <a
       href="https://www.bioinformaticscro.com/"
+      target="_blank"
       className=" underline decoration-yellow-300 font-medium"
     >
       The Bioinformatics CRO
@@ -46,6 +47,7 @@ const WorkPage = () => (
     consultant for the{" "}
     <a
       href="https://www.icr.ac.uk/"
+      target="_blank"
       className=" underline decoration-yellow-300 font-medium"
     >
       The Institute of Cancer Research, London
@@ -83,6 +85,7 @@ const WorkPage = () => (
       Research, London in collaboration with the{" "}
       <a
         href="https://www.well.ox.ac.uk/"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         Wellcome Center for Human Genetics, Oxford
@@ -91,6 +94,7 @@ const WorkPage = () => (
       <br />- I have particupated in two translational research programmes; the{" "}
       <a
         href="https://www.mcgprogramme.com/"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         Mainstreaming Cancer Genetics (MCG) programme
@@ -98,6 +102,7 @@ const WorkPage = () => (
       and the{" "}
       <a
         href="http://www.thetgmi.org/"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         Transforming Genetic Medicine Initiative (TGMI)
@@ -109,7 +114,8 @@ const WorkPage = () => (
       pipelines.
       <br />- The tools I have developed had been used at{" "}
       <a
-        href="https://www.royalmarsden.nhs.uk//"
+        href="https://www.royalmarsden.nhs.uk/"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         The Royal Marsden Hospital, London

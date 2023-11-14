@@ -25,6 +25,7 @@ const MilestonesPage = () => (
       programming, launching{" "}
       <a
         href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         Slurm jobs
@@ -32,6 +33,7 @@ const MilestonesPage = () => (
       on a remote computer cluster, and managing servers in the{" "}
       <a
         href="https://aws.amazon.com/"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         AWS cloud
@@ -62,7 +64,7 @@ const MilestonesPage = () => (
       his talent in both performance and songwriting. What is this if not a
       textbook example of{" "}
       <Link
-        href="/humanoids"
+        to="/humanoids"
         className=" underline decoration-yellow-300 font-medium"
       >
         anthropomorphism
@@ -133,6 +135,7 @@ const MilestonesPage = () => (
       of{" "}
       <a
         href="https://www.youtube.com/watch?v=r0lVZnijrZs"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         Norton Commander
@@ -141,6 +144,7 @@ const MilestonesPage = () => (
       in{" "}
       <a
         href="https://www.youtube.com/watch?v=0ZQCXXhXq6Q"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         Turbo Pascal
@@ -188,6 +192,7 @@ const MilestonesPage = () => (
       instance, one can download{" "}
       <a
         href="https://www.dosbox.com/"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         DOSBox
@@ -247,6 +252,7 @@ const MilestonesPage = () => (
       from their eighth studio album,{" "}
       <a
         href="https://www.youtube.com/watch?v=sn-OEe-dlp4&pp=ygUUY29tcHV0ZXIgd29ybGQgYWxidW0%3D"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         "Computer World"
@@ -313,6 +319,7 @@ const MilestonesPage = () => (
       playlist. A few songs from his fourth full-length studio album, titled{" "}
       <a
         href="https://www.youtube.com/watch?v=QcmdbMICKDs"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         "IBM 1401, A User's Manual"

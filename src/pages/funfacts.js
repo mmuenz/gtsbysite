@@ -28,6 +28,7 @@ const FunFactsPage = () => (
       <a
         className="underline decoration-yellow-300 font-medium"
         href="https://www.youtube.com/watch?v=kbSTA5aEYBo"
+        target="_blank"
       >
         Tricky
       </a>{" "}

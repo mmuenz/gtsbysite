@@ -70,6 +70,7 @@ const MilestonesPage = () => (
       exhibition was{" "}
       <a
         href="https://www.cccb.org/en/exhibitions/file/human-/129032"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         "HUMAN+: The Future of Our Species"
@@ -97,10 +98,16 @@ const MilestonesPage = () => (
 
     <p>
       I was a teenager when doctors begun to suspect I might have an inherited
-      kidney disease called Alport Syndrome. Although I was completely well,
-      tests repeatedly showed there were blood cells in the urine, a condition
-      called <i>hematuria</i>. In addition, my mother had similar, although
-      milder symptoms.
+      kidney disease called{" "}
+      <Link
+        to="/alport"
+        className=" underline decoration-yellow-300 font-medium"
+      >
+        Alport Syndrome
+      </Link>
+      . Although I was completely well, tests repeatedly showed there were blood
+      cells in the urine, a condition called <i>hematuria</i>. In addition, my
+      mother had similar, although milder symptoms.
     </p>
 
     <p>
@@ -157,6 +164,7 @@ const MilestonesPage = () => (
       completing my PhD, I joined a group led by Dr. Gerton Lunter at the{" "}
       <a
         href="https://www.well.ox.ac.uk/"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         Wellcome Trust Centre for Human Genetics, Oxford
@@ -165,6 +173,7 @@ const MilestonesPage = () => (
       Group at{" "}
       <a
         href="https://www.icr.ac.uk/"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         The Institute of Cancer Research, London
@@ -470,6 +479,7 @@ const MilestonesPage = () => (
       According to their{" "}
       <a
         href="https://www.nature.com/articles/s41467-020-16605-x"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         paper in the journal Nature Communications
@@ -514,7 +524,7 @@ const MilestonesPage = () => (
       thing, though: this storyline isn't fiction. This is my life.
     </p>
 
-    <p>It's already a good story to tell. </p>
+    <p>Without any further ado, it's already a good story to tell. </p>
 
     <p>
       What could make it an even better story is if one day I had a chance to

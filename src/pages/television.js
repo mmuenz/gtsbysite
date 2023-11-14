@@ -159,8 +159,8 @@ const TelevisionPage = () => (
     <p>The only thing that connects us is that we live in the same city.</p>
 
     <p>
-      We all have very different paths, never seen each other before, and will
-      never meet again. But we are sharing a moment, here and now.
+      We all have different paths, never seen each other before, and will
+      probably never meet again. But we are sharing a moment, here and now.
     </p>
 
     <br />

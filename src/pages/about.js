@@ -19,6 +19,7 @@ const AboutPage = () => (
         ● At present, I'm Senior Scientist and IT Director at{" "}
         <a
           href="https://www.bioinformaticscro.com/"
+          target="_blank"
           className="underline  decoration-yellow-300 font-medium"
         >
           The Bioinformatics CRO
@@ -29,6 +30,7 @@ const AboutPage = () => (
         consultant for{" "}
         <a
           href="https://www.icr.ac.uk/"
+          target="_blank"
           className="underline decoration-yellow-300 font-medium"
         >
           The Institute of Cancer Research (ICR), London
@@ -40,6 +42,7 @@ const AboutPage = () => (
         ● I have a PhD in Bioinformatics from the{" "}
         <a
           href="https://www.ox.ac.uk/"
+          target="_blank"
           className="underline  decoration-yellow-300 font-medium"
         >
           University of Oxford
@@ -47,6 +50,7 @@ const AboutPage = () => (
         , and an MSc in Physics from{" "}
         <a
           href="https://www.elte.hu/en/"
+          target="_blank"
           className="underline decoration-yellow-300 font-medium"
         >
           Eötvös Loránd University (ELTE)
@@ -71,15 +75,24 @@ const AboutPage = () => (
         ● My broader interests include genomics, precision medicine, cloud
         computing, machine learning (AI), software development,
         entrepreneurship. I love{" "}
-        <Link className="underline decoration-yellow-300 font-medium ">
+        <Link
+          to="/faves"
+          className="underline decoration-yellow-300 font-medium "
+        >
           reading
         </Link>
         ,{" "}
-        <Link className="underline decoration-yellow-300 font-medium">
+        <Link
+          to="/blog"
+          className="underline decoration-yellow-300 font-medium"
+        >
           writing
         </Link>
         , and{" "}
-        <Link className="underline decoration-yellow-300 font-medium">
+        <Link
+          to="/coding"
+          className="underline decoration-yellow-300 font-medium"
+        >
           coding
         </Link>
         .
@@ -101,6 +114,7 @@ const AboutPage = () => (
         ● Currently I live in Barcelona, Spain 🌴 with my wife,{" "}
         <a
           href="https://www.brigittaboth.com/"
+          target="_blank"
           className=" underline decoration-yellow-300 font-medium"
         >
           Brigitta
@@ -108,6 +122,7 @@ const AboutPage = () => (
         , a visual artist. Check out her collages and paintings{" "}
         <a
           href="https://www.instagram.com/brigittaboth_artist/"
+          target="_blank"
           className="underline decoration-yellow-300 font-medium"
         >
           here

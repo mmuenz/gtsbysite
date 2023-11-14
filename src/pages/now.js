@@ -16,6 +16,7 @@ const NowPage = () => (
       <a
         className="underline decoration-yellow-300 font-medium"
         href="https://sive.rs/now"
+        target="_blank"
       >
         this
       </a>
@@ -30,6 +31,7 @@ const NowPage = () => (
       <a
         className="underline decoration-yellow-300 font-medium"
         href="https://hack.org/mc/now.html"
+        target="_blank"
       >
         this
       </a>
@@ -50,6 +52,7 @@ const NowPage = () => (
       studying to pass the{" "}
       <a
         href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         AWS Certified Solutions Architect - Associate

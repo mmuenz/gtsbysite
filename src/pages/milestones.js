@@ -10,8 +10,7 @@ const MilestonesPage = () => (
     <div className="pt-5">
       <span>
         Here are the most important events of my life so far, from a bird's-eye
-        view. As Steve Jobs used to say, it's only possible to connect the dots
-        in retrospect.
+        view.
       </span>
     </div>
 
@@ -115,7 +114,7 @@ const MilestonesPage = () => (
           key: 17,
           title: "My wife was diagnosed with ovarian cancer in 2021.",
           content:
-            "What followed were the scariest years of our lives, but we faced them together and with the help of the doctors, nurses, and help from above, we won the battle. She is the strongest person I know, and her example proves recovery is possible.",
+            "What followed was the scariest year of our lives, but with the help of the best doctors, nurses, and some help from above, we won the battle. Thank you everyone for your help, and most importantly, thank you Darling for being so fantastic.",
         },
         {
           key: 18,

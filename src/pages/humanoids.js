@@ -18,6 +18,7 @@ const MilestonesPage = () => (
       You can watch the moment on Youtube when ASIMO{" "}
       <a
         href="https://www.youtube.com/watch?v=VTlV0Y5yAww"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         fell off the stairs.
@@ -148,6 +149,7 @@ const MilestonesPage = () => (
       role in many{" "}
       <a
         href="https://www.youtube.com/watch?v=HsXZjfnQHlA"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         religions
@@ -256,6 +258,7 @@ const MilestonesPage = () => (
     <p>
       <a
         href="https://www.youtube.com/watch?v=D2I2V1zTGw8"
+        target="_blank"
         className=" underline decoration-yellow-300 font-medium"
       >
         Sophia's face
@@ -399,6 +402,7 @@ const MilestonesPage = () => (
         In the movie "
         <a
           href="https://www.youtube.com/watch?v=qGuOZPwLayY"
+          target="_blank"
           className=" underline decoration-yellow-300 font-medium"
         >
           Cast Away
