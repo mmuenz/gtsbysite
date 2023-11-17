@@ -32,7 +32,7 @@ const BlogPage = () => (
 
     <BlogPost
       date="Jul 20"
-      title="Expanding my imagination with coding"
+      title="Expanding our imagination with coding"
       tags="Tech, Humans, Art"
       link="/coding"
     />

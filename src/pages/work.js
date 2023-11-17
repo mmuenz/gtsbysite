@@ -56,7 +56,7 @@ const WorkPage = () => (
     <br />
     <br />
     <p>
-      Over the past 5 years, working as a Senior Scientist and IT Dircetor for
+      Over the past 5 years, working as a Senior Scientist and IT Director for
       The Bioinformatics CRO, I have been involved in a wide range of
       activities: <br /> <br />
       - Bulk RNA-seq, scRNA-seq, ATAC-seq, ChIP-seq, WES, WGS, and mass
@@ -73,7 +73,7 @@ const WorkPage = () => (
       <br />
       - Data management
       <br />
-      - Maintanance of HPC clusters
+      - Maintenance of HPC clusters
       <br />- User management and onboarding
       <br />- Leading software development projects (web apps, GUIs, databases,
       in-house automation tools)
@@ -91,7 +91,7 @@ const WorkPage = () => (
         Wellcome Center for Human Genetics, Oxford
       </a>
       :
-      <br />- I have particupated in two translational research programmes; the{" "}
+      <br />- I have participated in two translational research programmes; the{" "}
       <a
         href="https://www.mcgprogramme.com/"
         target="_blank"
@@ -109,8 +109,8 @@ const WorkPage = () => (
       </a>
       .
       <br />- The focus of my work was developing a standardised system for
-      variant annotation in cancer predisposition genes, improving quality
-      control of NGS data and implementing automated NGS data processing
+      clinical variant annotation in cancer predisposition genes, improving
+      quality control of NGS data and implementing automated NGS data processing
       pipelines.
       <br />- The tools I have developed had been used at{" "}
       <a
@@ -120,7 +120,7 @@ const WorkPage = () => (
       >
         The Royal Marsden Hospital, London
       </a>{" "}
-      for genetic testing of breast and overian cancer patients.
+      for genetic testing of breast and ovarian cancer patients.
     </o>
     <br />
     <br />

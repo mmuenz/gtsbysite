@@ -16,7 +16,7 @@ const AboutPage = () => (
       </p>
 
       <p>
-        ● At present, I'm Senior Scientist and IT Director at{" "}
+        ● At present, I'm a Senior Scientist and IT Director at{" "}
         <a
           href="https://www.bioinformaticscro.com/"
           target="_blank"
@@ -26,7 +26,7 @@ const AboutPage = () => (
         </a>
         , a global, distributed contract research company that specializes in
         providing computational biology services in the genomics space to small
-        and medium-sized biotechnology companies. Previously, I've worked as a
+        and medium-sized biotechnology companies. Previously, I worked as a
         consultant for{" "}
         <a
           href="https://www.icr.ac.uk/"

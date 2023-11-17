@@ -10,7 +10,8 @@ const FunFactsPage = () => (
     <Seo title="Fun facts" />
     <p className="text-3xl">Fun facts about me</p>
     <p>
-      ● I spent 14473 days (1,250,467,200 seconds) on Earth up to this moment
+      ● I have spent 14473 days (1,250,467,200 seconds) on Earth up to this
+      moment
     </p>
     <p> ● 60% of my body is water </p>
 
@@ -18,11 +19,11 @@ const FunFactsPage = () => (
       ● Since I was born, the world's population grew by 3.6 billion (81.4%){" "}
     </p>
     <p>
-      ● I took 12,616 tablets of Myfortic to date (a medication for preventing
-      rejection following organ transplantation)
+      ● I have taken 12,616 tablets of Myfortic to date (a medication for
+      preventing rejection following organ transplantation)
     </p>
     <p>● I live 20 minutes from the Mediterranean Sea</p>
-    <p>● My favourite fruit is watermelon 🍉</p>
+    <p>● My favorite fruit is watermelon 🍉</p>
     <p>
       ● I've seen trip hop legend{" "}
       <a
@@ -38,8 +39,8 @@ const FunFactsPage = () => (
     <p>● I can count to 10 in Hebrew</p>
 
     <p>
-      ● I shook hands with American athlete Mike Powell, holder of the 8.95 m
-      world record in long jump
+      ● I once shook hands with American athlete Mike Powell, the holder of the
+      world record in long jump at 8.95 m
     </p>
 
     <p>
@@ -49,8 +50,8 @@ const FunFactsPage = () => (
     </p>
 
     <p>
-      ● 1% of my ancestry is Italian, most likely Sicilian (according to
-      23andme's DNA test)
+      ● 1% of my ancestry is Italian, with a probable Sicilian origin (according
+      to 23andme)
     </p>
   </Layout>
 )

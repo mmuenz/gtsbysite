@@ -9,7 +9,7 @@ import { StaticImage } from "gatsby-plugin-image"
 const CodingPage = () => (
   <Layout>
     <Seo title="Milestones" />
-    <p className="text-3xl">Expanding my imagination with coding</p>
+    <p className="text-3xl">Expanding our imagination with coding</p>
 
     <p className="text-yellow-300 text-md pb-2">
       Jul 20, 2023 | Tech, Humans, Art - 20 min read
