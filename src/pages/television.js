@@ -98,8 +98,8 @@ const TelevisionPage = () => (
 
     <p>
       You will see the grey-haired man walking out of Re-read, the second-hand
-      book store, looking happily into his bag and checking the three books he
-      bought for 4 Euros each. You will see a man crossing the street, a mobile
+      bookstore, looking happily into his bag and checking the three books he
+      bought, a few Euros each. You will see a man crossing the street, a mobile
       phone in his hand, gesticulating violently.
     </p>
 

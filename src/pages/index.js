@@ -26,8 +26,8 @@ const IndexPage = () => (
         >
           Barcelona
         </Link>
-        , Spain, but was born in Budapest. I have also lived 8 years in Oxford,
-        England.
+        , Spain, but was born in Budapest. I have also lived in Oxford, England
+        for 8 years.
       </p>
 
       <p className="p-0 mx-0 my-2">This is me:</p>
@@ -74,7 +74,7 @@ const IndexPage = () => (
           {" "}
           digital tools I use
         </Link>
-        . You can also have a peak into{" "}
+        . You can also have a peek into{" "}
         <Link
           to="/blog"
           className="underline decoration-yellow-300 font-medium"

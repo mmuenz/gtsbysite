@@ -51,9 +51,13 @@ const AlportPage = () => (
       gain insights into the functions of genes and proteins, identify
       disease-causing mutations, and develop new therapeutic strategies.
     </p>
-    <Link to="/bioinformatics-more" className="text-yellow-300">
-      Click here to read more, if you are interested.
-    </Link>
+    <Link
+      to="/bioinformatics-more"
+      className="underline decoration-yellow-300 font-medium"
+    >
+      Click here
+    </Link>{" "}
+    to read more, if you are interested.
   </Layout>
 )
 

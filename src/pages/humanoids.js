@@ -391,31 +391,8 @@ const MilestonesPage = () => (
           alt="prince"
           style={{ marginBottom: `1.45rem` }}
         />
-        <p>ASIMO, Honda's Humanoid robot, triggers your social brain</p>
+        <p>ASIMO, Honda's Humanoid robot, triggers our social brain</p>
       </a>
-    </div>
-    <div align="center">
-      <StaticImage
-        src="../images/wilson.jpg"
-        width={750}
-        quality={95}
-        formats={["auto", "webp", "avif"]}
-        alt="prince"
-        style={{ marginBottom: `1.45rem` }}
-      />
-      <p>
-        In the movie "
-        <a
-          href="https://www.youtube.com/watch?v=qGuOZPwLayY"
-          target="_blank"
-          className=" underline decoration-yellow-300 font-medium"
-        >
-          Cast Away
-        </a>
-        ", Tom Hanks plays a FedEx executive who becomes stranded on a deserted
-        island after his cargo plane crashes in the Pacific Ocean. To cope with
-        isolation, he anthropomorphizes a volleyball named Wilson.
-      </p>
     </div>
 
     <br />

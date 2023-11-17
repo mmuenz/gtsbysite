@@ -11,6 +11,13 @@ const WorkDetailsPage = () => (
     <p className="font-serif text-3xl mb-7">About my work (more details)</p>
     <p className="text-yellow-300">Coming soon...</p>
     <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
     <Link className="text-yellow-200 text-md" to="/work">
       | Back |
     </Link>
