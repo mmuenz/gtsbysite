@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 import MyToggle from "../components/MyToggle"
 import { StaticImage } from "gatsby-plugin-image"
 
-const MilestonesPage = () => (
+const GoodStoryPage = () => (
   <Layout>
     <Seo title="Milestones" />
     <p className="text-3xl">A good story to tell</p>
@@ -597,4 +597,4 @@ const MilestonesPage = () => (
   </Layout>
 )
 
-export default MilestonesPage
+export default GoodStoryPage

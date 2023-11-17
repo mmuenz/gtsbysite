@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const AlportPage = () => (
+const BioinformaticsPage = () => (
   <Layout>
     <Seo title="Bioinformatics" />
     <p className="text-3xl">What the hell is Bioinformatics?</p>
@@ -61,4 +61,4 @@ const AlportPage = () => (
   </Layout>
 )
 
-export default AlportPage
+export default BioinformaticsPage
