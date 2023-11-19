@@ -86,7 +86,7 @@ const UsesPage = () => (
           >
             Alfred
           </a>{" "}
-          for searching and launching apps
+          for searching, and launching apps
         </p>
         <p className="p-0 my-2">
           ●{" "}
@@ -119,7 +119,7 @@ const UsesPage = () => (
           >
             LastPass
           </a>{" "}
-          for password managment
+          for password management
         </p>
         <p className="p-0 my-2">
           ●{" "}
@@ -141,7 +141,7 @@ const UsesPage = () => (
           >
             Microsoft Outlook
           </a>{" "}
-          as calendar app
+          for email and calendar
         </p>
         <p className="p-0 my-2">
           ●{" "}
@@ -229,6 +229,14 @@ const UsesPage = () => (
             className="underline decoration-yellow-300 font-medium"
           >
             Zoom
+          </a>
+          /
+          <a
+            href="https://meet.google.com/"
+            target="_blank"
+            className="underline decoration-yellow-300 font-medium"
+          >
+            Google Meet
           </a>{" "}
           for meetings
         </p>
@@ -249,7 +257,7 @@ const UsesPage = () => (
         <p className="text-2xl my-3">Development:</p>
 
         <p className="p-0 my-2">
-          ● Python, JavaScript, R as programming languages
+          ● Python, JavaScript, and R as programming languages
         </p>
 
         <p className="p-0 my-2">

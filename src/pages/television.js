@@ -15,11 +15,11 @@ const TelevisionPage = () => (
     </p>
 
     <p>
-      At home, we have Netflix. We have Amazon Prime Videos. We have Filmin. We
+      At home, we have Netflix. We have Amazon Prime Video. We have Filmin. We
       have Orange TV with I-don't-know-how-many channels. We have RTVE Play. We
       have iTunes. And of course, we have the Youtube app installed on our smart
-      TV. I'm personally subscribed to 614 Youtube channels. My wife a few
-      hundreds more.
+      TV. I'm personally subscribed to 614 Youtube channels. My wife, a few
+      hundred more.
     </p>
     <p>
       And I'm sure you also have a good selection of shows to choose from when
@@ -30,7 +30,7 @@ const TelevisionPage = () => (
     <p>Do nothing, but wait.</p>
 
     <p>
-      You can chose a totally random location. It doesn't matter. Sit there for
+      You can choose a totally random location. It doesn't matter. Sit there for
       half an hour, and let life unfold in front of your eyes. I promise you,
       it's the best television.
     </p>
@@ -38,10 +38,10 @@ const TelevisionPage = () => (
     <p>
       You will see the young couple with the new house plant in their hands that
       they have just bought for their first common home after moving together a
-      week ago. You will see the 8-year-old boy in Messi shirt, although Lionel
-      Messi had left FC Barcelona years ago and now plays for Inter Miami. You
-      will see the 93 year old man, with oxygen tank on his back, entering the
-      bar.
+      week ago. You will see the 8-year-old boy in a Messi shirt, although
+      Lionel Messi had left FC Barcelona years ago and now plays for Inter
+      Miami. You will see the 93-year-old man, with oxygen tank on his back,
+      entering the bar.
     </p>
 
     <p>
@@ -55,8 +55,9 @@ const TelevisionPage = () => (
 
     <p>
       You will see the silver-haired, grandmotherly lady, likely shorter than
-      150 cm, in a pink, flowery dress, arguing with a 2-meter-tall, fully armed
-      policeman, vigorously telling him off for not being polite enough.
+      150 cm, in a pink, flowery dress. She is arguing with a 2-meter-tall,
+      fully armed policeman, vigorously telling him off for not being polite
+      enough.
     </p>
 
     <p>
@@ -68,8 +69,8 @@ const TelevisionPage = () => (
 
     <p>
       You will see four women arriving at a table on the street in front of the
-      café: four generations, a daughter, a mother, a grandmother, and a
-      great-grandmother. The mother pushing her daughter in a stroller, the
+      café: a daughter, a mother, a grandmother, and a great-grandmother, four
+      generations. The mother pushing her daughter in a stroller, the
       grandmother wheeling her own mother in a wheelchair. They all have come
       for a slice of cake.
     </p>
@@ -141,7 +142,7 @@ const TelevisionPage = () => (
       More importantly for me, it has a wide pedestrian promenade in the middle,
       lined with tall plane trees. It is often filled with people strolling,
       walking their dogs, kids playing, couples passing by. It's the perfect
-      place for someone who enjoys witnessing an unchoreographed dance of
+      place for someone who enjoys witnessing an unchoreographed dance of life's
       random, seemingly irrelevant and unrelated moments.
     </p>
 

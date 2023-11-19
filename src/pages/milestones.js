@@ -37,13 +37,13 @@ const MilestonesPage = () => (
           title:
             '1996: I read "Life: The Unfinished Experiment" by Salvador Edward Luria.',
           content:
-            "I read this little book, written by the Nobel Prize-winning Italian microbiologist, at the age of 15. It had profound impact on me, although back then I had no idea how much it captured my imagination. It was the first time I learned about DNA- and RNA-molecules, and how information was processed within a living cell. It was mesmerizing.",
+            "I read this little book, written by the Nobel Prize-winning Italian microbiologist, at the age of 15. It had a profound impact on me, although back then I had no idea how much it captured my imagination. It was the first time I learned about DNA and RNA molecules, and how information was processed within a living cell. It was mesmerizing.",
         },
         {
           key: 5,
           title: "My first article was published in Népszabadság in 2001.",
           content:
-            "My article on a French research group freezing human ovaries was published in Hungary's largest independent daily paper, Népszabadság. It was the start of my brief science journalist career. Dozens of other articles followed in the next couple of years. Sadly, Népszabadság no longer exists, it became a victim of economical and/or political forces. Nevertheless, back then it was sold in hundreds of thousands of copies.",
+            "My article on a French research group freezing human ovaries was published in Hungary's largest independent daily paper, Népszabadság. It marked the start of my brief science journalist career. Dozens of other articles followed in the next couple of years. Sadly, Népszabadság no longer exists, it became a victim of economic and/or political forces. Nevertheless, back then it was sold in hundreds of thousands of copies.",
         },
         {
           key: 6,
@@ -55,11 +55,11 @@ const MilestonesPage = () => (
           key: 7,
           title: "I was reborn in 2004, Budapest.",
           content:
-            "I was incredibly lucky to undergo a successful kidney transplantation on March 13, 2004. Since then I consider March 13 as my second birthday.",
+            "I was incredibly lucky to undergo a successful kidney transplantation on March 13, 2004. Since then, I have considered March 13 as my second birthday.",
         },
         {
           key: 8,
-          title: "1997: MSc in Physics.",
+          title: "2007: MSc in Physics.",
           content:
             "I was initially drawn to Physics by my fascination with galaxies and black holes, but soon realized I was even more amazed by the incredible complexity of biological systems. I wrote my MSc thesis about the analysis of gene expression patterns.",
         },
@@ -78,7 +78,7 @@ const MilestonesPage = () => (
           key: 11,
           title: "2012: I attained my doctorate.",
           content:
-            "My PhD thesis was about protein dynamics. I studied how the atoms of protein molecules move in three-dimensional space and how it's related to the protein's ability to bind other molecules. To explore this, I simulated the motion of proteins on computer with a method called Molecular Dynamics (MD) simulation. I then analysed how their flexibility affects their binding and promiscuity towards multiple binding partners.",
+            "My PhD thesis was about protein dynamics. I studied how the atoms of protein molecules move in three-dimensional space and how it's related to the protein's ability to bind other molecules. To explore this, I simulated the motion of proteins on a computer with a method called Molecular Dynamics (MD) simulation. I then analysed how their flexibility affects their binding and promiscuity towards multiple binding partners.",
         },
         {
           key: 12,
@@ -101,14 +101,14 @@ const MilestonesPage = () => (
           key: 15,
           title: "2019: Had my own DNA tested.",
           content:
-            "I underwent a genetic test - similar to the one I was helping to develop for ovarian and breast cancer patients a few years earlier. The test has identified a mutation on my X chromosome that's linked to Alport Syndrome. What a surprise!",
+            "I underwent a genetic test, similar to the one I had helped develop for ovarian and breast cancer patients a few years earlier. This test identified a mutation on my X chromosome linked to Alport Syndrome. What a surprise!",
         },
         {
           key: 16,
           title:
-            "2020-21: Spent 1.5+ years indoors during the Covid-19 pandemic.",
+            "2020-2021: Spent 1.5+ years indoors during the Covid-19 pandemic.",
           content:
-            "Taking immunosuppressive drugs, I belong to the group of people who are especially vulnerable to Covid-19. Furthermore, vaccines were not effective in prompting my body to produce antibodies. For this reason, my wife and I were forced to live inside four walls, in isolation, for almost 2 years.",
+            "As someone who takes immunosuppressive drugs, I belong to the group of people who are especially vulnerable to Covid-19. Moreover, vaccines were not effective in prompting my body to produce antibodies. For this reason, my wife and I were forced to live within four walls for almost 2 years.",
         },
         {
           key: 17,

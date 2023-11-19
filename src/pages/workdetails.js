@@ -12,12 +12,6 @@ const WorkDetailsPage = () => (
     <p className="text-yellow-300">Coming soon...</p>
     <br />
     <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
     <Link className="text-yellow-200 text-md" to="/work">
       | Back |
     </Link>

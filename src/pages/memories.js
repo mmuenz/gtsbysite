@@ -16,9 +16,8 @@ const MemoriesPage = () => (
     <p>
       I am writing this blog post on my Apple laptop, a 13-inch MacBook Pro with
       M1 chip, 8 GB RAM and 512 GB SSD hard drive. It's a fantastic computer. I
-      use it for everything, for work and entertainment, keeping in touch with
-      my family and friends, studying, writing, reading the news, shopping
-      online.{" "}
+      use it for everything: work and entertainment, keeping in touch with my
+      family and friends, studying, writing, reading the news, shopping online.{" "}
     </p>
     <p>
       As a computational biologist, I also use this laptop for data analysis and
@@ -105,7 +104,7 @@ const MemoriesPage = () => (
     <p>
       Picture a kid, 10 years old, blissfully running around the house, not
       being able to contain his excitement. He is about to get his first
-      computer as a birthday present. Moreover, his dad said it's not going to
+      computer as a birthday present. Moreover, his dad said it was not going to
       be a Commodore 64 as originally planned. No, it's gonna be a shiny new IBM
       PC.
     </p>
@@ -132,7 +131,7 @@ const MemoriesPage = () => (
     <p>
       After a while I learned to use the MS-DOS command line. I entered
       directories, copied files, formatted Floppy disks. Then I became an expert
-      of{" "}
+      in using{" "}
       <a
         href="https://www.youtube.com/watch?v=r0lVZnijrZs"
         target="_blank"
@@ -141,7 +140,7 @@ const MemoriesPage = () => (
         Norton Commander
       </a>
       . A few years later I even wrote my first computer program, a Dice Poker,
-      in{" "}
+      in the{" "}
       <a
         href="https://www.youtube.com/watch?v=0ZQCXXhXq6Q"
         target="_blank"
@@ -164,28 +163,27 @@ const MemoriesPage = () => (
     <p className="text-2xl">"Out of memory" errors</p>
     <p>
       You can feel a very strong nostalgia towards your first computer. It was
-      the coolest thing ever, despite having only 640 KB RAM, 12500-times less
+      the coolest thing ever, despite having only 640 KB RAM, 12500 times less
       memory than my current laptop has. It had only a 40 MB hard drive, so it
       would have hardly been able to store a single raw 15 Megapixel photo file.
       It used 5 1/4 inch floppy disks with a capacity of only 360 kilobytes that
-      were able to store 1.4 million times less data than my current SSD hard
-      drive. It had only a monochrome VGA monitor in contrast with the Apple
-      Retina Display of my current laptop supporting millions of colours. And of
-      course it didn't have Internet connection. Not to mention it weighted
-      30-times more.
+      were able to store 1.4 million times less data than my current SSD. It had
+      only a monochrome VGA monitor in contrast with the Apple Retina Display of
+      my current laptop supporting millions of colours. And, of course, it
+      lacked an Internet connection. Not to mention it weighed 30 times more.
     </p>
     <p>
       That old machine, my first friend, was incredibly stupid compared to my
       current one.
     </p>
     <p>
-      Why is it then that I find myself longing for the feel of that old
-      keyboard, and the annoying, beeping sound of the internal speaker? If we
-      wanted, Köki and I could play a hyper-realistic version of soccer together
-      this afternoon, streaming real time via high speed Internet connection,
-      even though we now live 2000 km apart. Yet, instead, I find myself
-      googling retro computer emulators, i.e. software that mimic the
-      functionality of my old IBM PC 286.
+      So why do I find myself longing for the feel of that old keyboard, and the
+      annoying, beeping sound of the internal speaker? If we wanted, Köki and I
+      could play a hyper-realistic version of soccer together this afternoon,
+      streaming real time via high speed Internet connection, even though we now
+      live 2000 km apart. Yet, instead, I find myself googling retro computer
+      emulators, i.e. software that mimic the functionality of my old IBM PC
+      286.
     </p>
     <p>
       Apparently, I am not the only one. Many such software tools exist. For
@@ -208,8 +206,8 @@ const MemoriesPage = () => (
     <p>
       I have even downloaded the original User Manual of my IBM PC 286 from a
       website. The very same tutorial that was included in the box my dad gave
-      me on my 10th birthday. Complex figures, detailed descriptions, and a
-      sentence on the first page which I still find poetic.
+      me on my 10th birthday. Complex figures, detailed descriptions. In it,
+      there's a sentence on the first page that I still find poetic.
     </p>
     <p>
       It reads: "You are the most important element of a properly working IBM
@@ -235,21 +233,22 @@ const MemoriesPage = () => (
 
     <p className="text-2xl">There even is a word for it</p>
     <p>
-      Why the computer museums, the retro computer emulators, and the increasing
-      fascination for extinct programming languages?
+      Why do we have computer museums, retro computer emulators, and an
+      increasing fascination for extinct programming languages?
     </p>
     <p>
-      These are all manifestations of a phenomenon known as tech nostalgia (or
-      in one word: "technostalgia"), which is defined by Wiktionary as "fond
-      reminiscence of, or longing for, outdated technology".
+      These are all manifestations of a phenomenon known as{" "}
+      <i>tech nostalgia</i> (or in one word: "technostalgia"), which is defined
+      by Wiktionary as "fond reminiscence of, or longing for, outdated
+      technology".
     </p>
-    <p>Longing for technology that once we thought were cool.</p>
+    <p>Longing for technology that we once thought was cool.</p>
     <p className="text-2xl">My playlist</p>
     <p>
-      While looking through the old IBM User Manual, I'm opening a new tab in my
-      web browser to start one of my Youtube playlists in the background. It is
-      Kraftwerk, the German electronic band formed in Düsseldorf in 1970. Songs
-      from their eighth studio album,{" "}
+      As I look through the old IBM User Manual, I open a new tab in my web
+      browser to start one of my YouTube playlists in the background. First up
+      is Kraftwerk, the German electronic band formed in Düsseldorf in 1970.
+      Songs from their eighth studio album,{" "}
       <a
         href="https://www.youtube.com/watch?v=sn-OEe-dlp4&pp=ygUUY29tcHV0ZXIgd29ybGQgYWxidW0%3D"
         target="_blank"
@@ -259,7 +258,7 @@ const MemoriesPage = () => (
       </a>
       . Unique, futuristic tone.{" "}
     </p>
-    <p>The first song on my playlist has a simple lyrics, only one line:</p>
+    <p>The first song on my playlist has simple lyrics, only one line:</p>
     <p>
       <i>
         "It's more fun to compute" <br />
@@ -271,8 +270,8 @@ const MemoriesPage = () => (
     </p>
     <p>
       The second track, "Computer Love", makes me emotional again. It reminds me
-      I have even met my wife through a computer, in a chat room, somewhere on
-      the Information Superhighway. The lyrics read:
+      I even met my wife through a computer, in a chat room, somewhere on the
+      Information Superhighway. The lyrics read:
     </p>
     <p>
       <i>
@@ -297,7 +296,7 @@ const MemoriesPage = () => (
       </i>
     </p>
 
-    <p> Then comes the song "Home Computer":</p>
+    <p> Next comes the song "Home Computer":</p>
 
     <p>
       <i>
@@ -307,7 +306,7 @@ const MemoriesPage = () => (
       </i>
     </p>
 
-    <p className="text-2xl">Can you simulate a soul?</p>
+    <p className="text-2xl">Can we simulate a soul?</p>
 
     <p>
       Indeed, let's beam ourselves back to the future (i.e. recent past).
@@ -339,10 +338,10 @@ const MemoriesPage = () => (
       close" - wrote Sal Cinquemani, co-founder and co-editor of Slant Magazine.
     </p>
     <p>
-      Back to the year 2023. I continue to be very excited about computers. It
-      is also the year when the general public met AI for the first time. Many
-      think machines are getting frighteningly close to mimic human
-      intelligence. Some fear computers becoming autonomous.
+      Back to the year 2023, I continue to be very excited about computers. It
+      is the year when the general public (hundreds of millians of people) met
+      AI for the first time. Many think machines are getting frighteningly close
+      to mimicking human intelligence. Some fear computers becoming autonomous.
     </p>
     <p>
       Scary indeed. I want to believe what I read at the age of 10 on the first
@@ -350,7 +349,7 @@ const MemoriesPage = () => (
       element in a properly functioning computer system. We are the ones who
       plug it together.
     </p>
-    <p> And hopefully, we will also be able to unplug it, when it's time.</p>
+    <p> And, hopefully, we will be able to unplug it when it's time.</p>
 
     <br />
     <p>---</p>
@@ -371,8 +370,9 @@ const MemoriesPage = () => (
         />
       </a>
       <p>
-        "Prince of Persia" running on DOSBox, a retro MS-DOS operating system
-        emulator
+        Tech nostalgia in action: "Prince of Persia", released in the early 90s,
+        running in 2023 on DOSBox, a retro MS-DOS operating system emulator. For
+        many, it brings back old memories.
       </p>
     </div>
 

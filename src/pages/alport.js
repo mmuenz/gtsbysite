@@ -21,9 +21,9 @@ const AlportPage = () => (
       the causal gene is on the X-chromosome), which means it often affects
       males more severely than females. Symptoms usually appear in early
       childhood and may include blood in the urine, swelling in the legs and
-      feet, and high blood pressure. While there's no cure for Alport Syndrome,
-      treatments often aim to slow the progression of kidney damage and manage
-      symptoms.
+      feet, and high blood pressure. Although there is no cure for Alport
+      Syndrome, treatments often aim to slow the progression of kidney damage
+      and manage symptoms.
     </p>
 
     <p>
