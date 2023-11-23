@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 const BioinformaticsPage = () => (
   <Layout>
     <Seo title="Bioinformatics" />
-    <p className="text-3xl">What the hell is Bioinformatics?</p>
+    <p className="text-3xl">What on earth is Bioinformatics?</p>
     <p>
       Bioinformatics is an interdisciplinary field that combines biology,
       computer science, and mathematics/statistics, aiming to analyze and

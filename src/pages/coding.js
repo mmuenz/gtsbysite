@@ -24,7 +24,7 @@ const CodingPage = () => (
       at the time.
     </p>
     <p>
-      When Vera Molnár begun her experiments in generating images with the help
+      When Vera Molnár began her experiments in generating images with the help
       of computers, and started to incorporate software-generated randomness,
       computer programming was still in its infancy. The BASIC programming
       language was developed by another Hungarian, the mathematician and
@@ -34,26 +34,26 @@ const CodingPage = () => (
     </p>
     <p>
       In the interview, Vera Molnár explained how she relied on
-      computer-generated random effects in her artistic process. On the other
-      hand, as she pointed out, incorporating randomness had a history in art
-      way before computers had been invented. Wolfgang Amadeus Mozart is one
-      example she mentions; the maestro was believed to have used dice when
-      composing some of his music.
+      computer-generated randomness in her artistic process. On the other hand,
+      as she pointed out, incorporating randomness had a history in art way
+      before computers had been invented. Wolfgang Amadeus Mozart is one example
+      she mentions; the maestro was believed to have used dice in composing some
+      of his music.
     </p>
     <p>
-      (A musical dice game published in 1792, "Musikalisches Würfelspiel", as
-      called in German, might even originate from Mozart, personally. A similar
-      game was attributed to Joseph Haydn, although neither were confirmed.
-      Interestingly, systems of using dice to randomly generate music were
-      really popular in the 18th century, and can be considered early examples
-      of "generative art".)
+      (A musical dice game published in 1792, <i>Musikalisches Würfelspiel</i>,
+      as called in German, might even originate from Mozart, personally. A
+      similar game was attributed to Joseph Haydn, although neither were
+      confirmed. Interestingly, systems of using dice to randomly generate music
+      were really popular in the 18th century, and can be considered early
+      examples of generative art.)
     </p>
     <p>
       Also long before the birth of computers, in 1913, French artist Marcel
-      Duchamp was playing with similar ideas working on his piece "3 Standard
-      Stoppages". This piece emerged from the random fall of three pieces of
-      threads dropped onto a canvas. It was, as he described, an experiment to
-      “preserve forms obtained through chance.”
+      Duchamp was playing with similar ideas when working on "3 Standard
+      Stoppages". He created this artwork relying on the random fall of three
+      pieces of threads dropped onto a canvas. It was, as he described, an
+      experiment to “preserve forms obtained through chance.”
     </p>
     <p>
       Similarly, the American poet and novelist, William S. Burroughs wrote many
@@ -71,7 +71,7 @@ const CodingPage = () => (
       him and his friend, Ty Roberts, that was inputted text from multiple
       sources including newspapers, hand-written words, and other literary
       source material, to facilitate the generation of unique and eclectic
-      combination of words and literaly images for his music.
+      combination of words and literary images for his music.
     </p>
     <p>
       According to Bowie: “If you put three or four dissociated ideas together
@@ -79,14 +79,11 @@ const CodingPage = () => (
       that comes from those pairings is really quite startling sometimes, quite
       provocative.”
     </p>
-    <p className="text-2xl">Artificial intuition</p>
+    <p className="text-2xl">"Artificial Intuition"</p>
     <p>
       In generative art, the artist gives up part of her control over the final
       output, and relies on an external system or algorithm that often involves
-      some element of randomization. At the end, the artist may select from the
-      different "randomized" outputs the system has generated, and decide to use
-      them as they are, modify them, or combine them with other elements to
-      create a final piece.{" "}
+      some element of randomization.{" "}
     </p>
     <p>
       As Vera Molnár, who experimented with elementary geometrical shapes all
@@ -95,15 +92,15 @@ const CodingPage = () => (
       enriches the senses."{" "}
     </p>
     <p>
-      Mozart's trick, rolling the dice can take a musical piece into unexpected
-      directions. Computers, however, when programmed cleverly, are able to
-      generate remarkably complex random patterns.{" "}
+      Rolling the dice can take a musical piece into unexpected directions.
+      Computers, however, when programmed cleverly, are able to generate
+      remarkably complex random patterns.{" "}
     </p>
     <p>
       For Vera Molnár, the real surprise was that these patterns created by the
-      cold logic of the computer, opened up a new unknown universe to explore as
-      part of her creative process. She used randomness generated by her BASIC
-      and Fortran code as a sort of "artificial intuition", as she called it.{" "}
+      cold logic of the computer, opened up a new universe to explore as part of
+      her creative process. She used randomness generated by her BASIC and
+      Fortran code as a sort of "artificial intuition", as she called it.{" "}
     </p>
     <p>
       "I think this is what’s paradoxical about the computer" - she explained. -
@@ -111,11 +108,10 @@ const CodingPage = () => (
       even when you yourself don’t yet know what that is."{" "}
     </p>
     <p>
-      She definitely dismissed the notion that computers dehumanise art: "The
-      opposite is true. Because it’s thanks to all this technology, we can get
-      very close to what we have imagined. That otherwise we might not have
-      found. [...] So actually humanizes your production. Not dehumanizes, but
-      humanizes."{" "}
+      She denied that computers dehumanise art: "The opposite is true. Because
+      it’s thanks to all this technology, we can get very close to what we have
+      imagined. That otherwise we might not have found. [...] So (it) actually
+      humanizes your production. Not dehumanizes, but humanizes."{" "}
     </p>
     <p>
       She repeated the same idea in another interview: “This may sound
@@ -132,11 +128,11 @@ const CodingPage = () => (
     </p>
     <p>
       Of course, unlike Molnár, I'm not an artist, and the code I write are
-      mostly designed to address scientific questions, not to generate patterns
-      of any artistic value. I'm also by no means a professional software
-      developer. I have no formal education in algorithm design or Agile
-      development practices. I'm a self-taught programmer. I'm more instinctive
-      than skilled.{" "}
+      mostly designed to address scientific questions, and not to generate
+      patterns of any artistic value. I'm also by no means a professional
+      software developer. I have no formal education in algorithm design or
+      Agile development practices. I'm a self-taught programmer. I'm more
+      instinctive than skilled.{" "}
     </p>
     <p>
       Yet, I write computer code almost every day to solve various problems in
@@ -145,15 +141,14 @@ const CodingPage = () => (
     </p>
     <p>
       Despite the differences, I think everyone who writes code probably shares
-      a common sensation. A strange mixture of the feeling of freedom when
-      navigating in a space of infinite possibilities (like travelling with a
-      map that's infinite in all directions), the beauty when stumbling upon a
-      simple, elegant solution, and the satisfaction when you see the different
-      pieces finally coming together.{" "}
+      a common sensation. It's a strange mixture of the feeling of freedom when
+      navigating in a space of infinite possibilities, the beauty of stumbling
+      upon a simple, elegant solution, and the satisfaction derived from seeing
+      the different pieces finally coming together.{" "}
     </p>
     <p>
       Travelling with an infinite map in your hand, it is only your imagination
-      that sets boundaries to what is possible. It turns out, the best way of
+      that sets boundaries to what is possible. As it turns out, the best way of
       learning is by creating. That way you soon realize the horizons you
       believed were finite actually expand with every step you take.{" "}
     </p>
@@ -163,13 +158,12 @@ const CodingPage = () => (
       might turn monotonous for seasoned developers, but thankfully I still get
       very excited every time I create an empty file and start typing.{" "}
     </p>
-    <p className="text-2xl">Imagination amplifiers</p>
+    <p className="text-2xl">"Imagination Amplifiers"</p>
     <p>
-      You can perceive computers in very different ways. You may think of them
-      as lifeless, number-crunching machines that can do nothing but dry,
-      mechanical computations on zeros and ones. Or you can think of them as
-      devices that have the potential of augmenting human creativity. How boring
-      is the former, how exciting is the latter!
+      You can perceive computers in different ways. You may think of them as
+      lifeless, number-crunching machines, only capable of dry, mechanical
+      computations on zeros and ones. Or you can think of them as devices that
+      have the potential of augmenting human creativity.
     </p>
     <p>
       Alan Kay, the pioneering computer scientist known for his contributions to
@@ -179,17 +173,17 @@ const CodingPage = () => (
     </p>
     <p>
       Kay believed that rather than using computers as tools for executing
-      tasks, we should use them for extending the horizon of our own
-      imagination. His dream was to develop computers into a personal dynamic
-      medium for creativity.{" "}
+      tasks, we should use them to extend the horizon of our own imagination.
+      His dream was to develop computers into a personal dynamic medium for
+      creativity.{" "}
     </p>
     <p>
       In other words, computers are not meant to be used the way most people use
       them today. The majority of us use computers for the most banal things
       such as sending emails, scrolling through social media sites, streaming
       videos, browsing images, or online shopping. This is a waste of
-      possibilities. In all these cases, we are only passive users of
-      applications, and we don't even know how they work.{" "}
+      possibilities. We are only passive users of these applications, and often
+      we don't even understand how they work.{" "}
     </p>
     <p>
       A computer can be much more than that. If used right, it can augment your
@@ -200,17 +194,19 @@ const CodingPage = () => (
     </p>
     <p>
       Coding is about learning to speak the language of the computer that allows
-      you to engage with it fully. It's like being able to talk with the
-      machine, as if you two were close friends, and able to tell it precisely
-      what you are thinking.
+      you to engage with it fully. It's like being able to talk with the machine
+      as if you two were close pals, clearly expressing what's on your mind.
     </p>
     <p className="text-2xl">Turning thoughts into code</p>
     <p>
       What makes computer programming so much fun? It's not just the fact that
       the machine can surprise you with random numbers or unexpected patterns.
       Coding is mostly fun because you are creating something new out of
-      nothing. You write code to transform your ideas (your plain thoughts) into
-      a functioning system that can, in fact, interact with reality. It's sort
+      nothing.
+    </p>
+    <p>
+      You write code to transform your ideas (your plain thoughts) into a
+      functioning system that can, eventually, interact with reality. It's sort
       of like building a bridge between your mind and the real world.{" "}
     </p>
     <p>
@@ -218,8 +214,8 @@ const CodingPage = () => (
       the shape of an executable computer code.{" "}
     </p>
     <p>
-      The more complex the code is, the more challenging it may become to put it
-      into optimal shape (whatever "optimal" means in this context), but the
+      The more complex the code is, the more challenging it may be to put it
+      into an optimal shape (whatever "optimal" means in this context), but the
       greater the satisfaction one feels. One reason why people love coding is
       the sense of accomplishment it gives.{" "}
     </p>
@@ -233,10 +229,10 @@ const CodingPage = () => (
     <p>
       The process of turning our thoughts into code is rarely straightforward;
       it may involve a lot of experimentation, trial and error, iterations,
-      testing, refactoring. Several computer scientists including Paul Graham,
-      co-founder of Y Combinator, emphasized that this bumpy road of writing a
-      computer program is similar to the process artists follow when crafting
-      their pieces.{" "}
+      testing, and refactoring. Several computer scientists including Paul
+      Graham, co-founder of Y Combinator, emphasized that the bumpy road of
+      writing a computer program is similar to the process artists follow when
+      crafting their artworks.{" "}
     </p>
     <p>
       Andrew Hunt, co-author of the book "The Pragmatic Programmer", a classic
@@ -247,9 +243,9 @@ const CodingPage = () => (
     </p>
     <p className="text-2xl">Code can be beautiful</p>
     <p>
-      "Hold on a sec!" - you may interrupt me at this point. - "The ultimate raw
-      material of art is: beauty. By contrast, there is nothing beautiful about
-      computer coding, right?"{" "}
+      'Hold on a sec!' you might interrupt me at this point. 'The ultimate raw
+      material of art is <i>beauty</i>. By contrast, there's nothing beautiful
+      about computer coding, right?'{" "}
     </p>
     <p>Wrong. </p>
     <p>
@@ -278,9 +274,10 @@ const CodingPage = () => (
       being pretty, or being shocking."{" "}
     </p>
     <p>
-      Beautiful code is typically better code. It's simpler to maintain, extend,
-      debug, and reuse. Simplicity, conciseness and readability are more
-      pleasing for the eyes, but are also indicators of efficiency.
+      Of course, beautiful code is typically better code. It's simpler to
+      maintain, extend, debug, and reuse. Simplicity, conciseness and
+      readability are more pleasing for the eyes, but are also indicators of
+      efficiency.
     </p>
     <p>
       Everyone likes clean, well-organized, and self-explanatory code. No one
@@ -289,11 +286,11 @@ const CodingPage = () => (
     </p>
     <p className="text-2xl">A way of self-expression</p>
     <p>
-      Ultimately, the computer being a creative medium, writing code is a way of
+      Ultimately, if a computer is a creative medium, writing code is a way of
       self-expression. No matter whether you are a beginner or a pro, your
-      individuality shows in your code some way or another. First of all, it's
-      your own thoughts and ideas you translate into code, secondly, programmers
-      all have inherently different, often recognizable styles.{" "}
+      individuality shows in your code in one way or another. First of all, it's
+      your own thoughts and ideas you translate into code, secondly, coders all
+      have inherently different, often recognizable styles.{" "}
     </p>
     <p>
       Linus Torvalds said: "One of the reasons people have become so enamored
@@ -305,85 +302,80 @@ const CodingPage = () => (
       computer do what you want, you have to figure out how."{" "}
     </p>
     <p>
-      Indeed, there are often millions of ways to do the same thing, and you are
-      making a lot of choices along the way. What's important here is that
-      everyone makes different choices. Your code is infused with your own
-      experiences, knowledge, perceptions, and unique problem-solving approach.
-      From high-level design decisions to the nitty-gritty of implementation
-      details, you bring your individuality into it. The way a function is
-      written, the naming conventions chosen, or even the architecture of a
-      system can reflect the unique mindset and aesthetics of its creator. You
-      are in your code.{" "}
+      Indeed, there are often millions of ways to do the same thing.
+      Consequently, you are making a lot of choices along the way. What's very
+      important here is that everyone makes different choices. Your code is
+      infused with your own experiences, knowledge, perceptions, and unique
+      problem-solving approach. From high-level design decisions to the
+      nitty-gritty of implementation details, you bring your individuality into
+      it. The way a function is written, the naming conventions chosen, or even
+      the architecture of a system can reflect the unique mindset and aesthetics
+      of its creator. You are in your code.{" "}
     </p>
     <p>
-      Wow, I am in my code. Maybe that's why I enjoy programming so much. In
-      some strange, abstract way, it's a mirror. As Steve Jobs has put it in one
-      of his interviews, it is "a mirror of your thought process".{" "}
+      I am in my code. Maybe that's why I enjoy programming so much. In some
+      strange, abstract way, it's a mirror. As Steve Jobs has put it in one of
+      his interviews, it is "a mirror of your thought process".{" "}
     </p>
     <p className="text-2xl">A creativity explosion</p>
     <p>
-      Of course, for artists who do programming, the purpose of self-expression
-      is more evident. Several specialized programming languages have evolved
-      allowing them to express themselves through code in various different
-      domains. Today, Vera Molnár wouldn't need to rely on languages as generic
-      as BASIC and Fortran.{" "}
+      Of course, for artists who code, the purpose of self-expression is more
+      evident. Several specialized programming languages exist allowing them to
+      express themselves through code in various different domains. Today, Vera
+      Molnár wouldn't have to rely on languages as generic as BASIC and Fortran.
+      She would be able choose from various programming languages, libraries,
+      packages, and frameworks created specifically for artists.{" "}
     </p>
     <p>
-      She would be able chose from various programming languages, libraries,
-      packages, and frameworks created specifically for artists. There is, for
-      instance, TouchDesigner, a visual programming language for real-time
-      interactive multimedia content, Max/MSP, another visual programming
-      language for music and multimedia, Cinder, p5.js and openFrameworks,
-      open-source toolkits for creative coding, RunwayML, a suit of intuitive
-      creative tools powered by machine learning, or SuperCollider, a platform
-      for audio synthesis and algorithmic composition, used by artists working
-      with sound.{" "}
+      There is, for instance, TouchDesigner, a visual programming language for
+      real-time interactive multimedia content, or Max/MSP, another visual
+      programming language for music and multimedia. There are Cinder, p5.js and
+      openFrameworks, open-source toolkits for creative coding, RunwayML, a
+      suite of intuitive creative tools powered by machine learning, or
+      SuperCollider, a platform for audio synthesis and algorithmic composition,
+      used by artists working with sound.{" "}
     </p>
     <p>
       <i>Creative coding</i> is an umbrella term for various ways of using
       programming and technology for artistic and expressive purposes, such as
       generative art, digital animation and simulation, algorithmically
-      manipulated music, virtual reality (VR) and augmented reality (AR)
-      installations, physical art pieces that integrate sensors and
-      microcontrollers, for instance, interactive motion-sensing sculptures,
-      live coding, and many more innovative forms of self-expression.{" "}
+      manipulated music, virtual reality (VR) and augmented reality (AR),
+      physical art pieces that integrate sensors and microcontrollers (for
+      instance, interactive motion-sensing sculptures), live coding, and many
+      other innovative forms of self-expression.{" "}
     </p>
     <p>
-      In "live coding" performances, artists write and modify code on the stage
-      live to produce music and visual art in real-time. At algorave parties,
-      people come together to dance to music generated by algorithms, often
-      accompanied by live coding sessions.{" "}
+      In <i>live coding</i> performances, artists write and modify code on the
+      stage live, producing music and visual art in real-time. At algorave
+      parties, for example, people come together to dance to music generated by
+      algorithms, often accompanied by live coding sessions.{" "}
     </p>
     <p>
       The name "creative coding" is of course somewhat misleading since all
-      coding is, by definition, creative.
-    </p>
-    <p>
-      Even when the output is not expressive or entertaining, even when the
-      system itself sounds boring, coding the system needs creative thinking.
-      Enormous creativity goes into the development of the software that
-      controls a nuclear power plant, or a public restroom maintenance system
-      that notifies the cleaning staff when stalls are used a certain number of
-      times or when the toilet paper is running out.{" "}
+      coding is, by definition, creative. Even when the output is not expressive
+      or entertaining, coding the system requires creative thinking. A lot of
+      creativity go into the development of the software that controls a nuclear
+      power plant, or a public restroom maintenance system that notifies the
+      cleaning staff when stalls are used a certain number of times or when the
+      toilet paper is running out.{" "}
     </p>
     <p className="text-2xl">Programming for five-year-olds</p>
     <p>
       Alan Kay had a vision. He imagined a future where personal computers are
-      not primarily used for sending emails and scrolling images, but as true
+      not primarily used for sending emails or scrolling images, but as true
       extensions of our minds, creative spaces for testing and discovering new
       ideas.{" "}
     </p>
     <p>
-      At the core of Kay's vision was that children could benefit from using
-      computers at a very early age, as these devices would facilitate their
-      development via creative learning.{" "}
+      At the core of Kay's vision was that children could also benefit from
+      using computers at a very early age, as these devices would facilitate
+      their development through creative learning.{" "}
     </p>
     <p>
       In the late 60s / early 70s, Kay designed Dynabook, "a personal computer
-      for children of all ages", which was planned to be a portable
-      (notebook-sized) device with a graphical user interface. He hoped it would
-      become a dynamic medium for creative thought kids would use both inside
-      and outside of schools.{" "}
+      for children of all ages", a portable (notebook-sized) device with a
+      graphical user interface. He hoped it would become a dynamic medium for
+      creative thought that kids would use inside and outside of schools.{" "}
     </p>
     <p>
       He envisioned that children would also be able to learn programming on the
@@ -392,47 +384,46 @@ const CodingPage = () => (
       developed specifically for this purpose.{" "}
     </p>
     <p>
-      As Kay himself explained: "[...] careful use and design of interactive
-      computing could make a qualitative difference in the higher-level shaping
-      of children’s thinking - not just learning important things earlier, but
-      in taking on a much more powerful “epistemological stance” towards the
-      world they were growing up in - to the point where they should be able to
-      think much better than most adults do today (not a big feat, but
-      desperately needed), and be stronger shapers of the future (really
-      desperately needed)."{" "}
+      As he explained: "[...] careful use and design of interactive computing
+      could make a qualitative difference in the higher-level shaping of
+      children’s thinking - not just learning important things earlier, but in
+      taking on a much more powerful “epistemological stance” towards the world
+      they were growing up in - to the point where they should be able to think
+      much better than most adults do today (not a big feat, but desperately
+      needed), and be stronger shapers of the future (really desperately
+      needed)."{" "}
     </p>
     <p>
-      In some sense, kids would be more intuitive and innovative users of such
+      The Dynabook never became a reality due to the technological limitations
+      of the time. Its concepts, however, influenced the development of personal
+      computers, especially the design of laptops and tablets. Kay's ideas also
+      inspired initiatives such as the "One Laptop Per Child" project, which
+      aimed to develop and distribute a low-cost laptop known as the "Children's
+      Machine" to kids around the world.{" "}
+    </p>
+
+    <p>
+      In some sense, children are more intuitive and innovative users of such
       tools than adults, due to their natural curiosity, imagination and
       creativity, as well as their extraordinary ability to mix concepts, and
-      come up with original ideas.{" "}
+      come up with original ideas. What's more, just as children's brains are
+      incredibly good at absorbing spoken languages, they are likely very
+      efficient in picking up programming languages easily.{" "}
     </p>
+
     <p>
-      Just as children's brains are incredibly good at absorbing spoken
-      languages, they are likely very efficient in picking up programming
-      languages easily.{" "}
-    </p>
-    <p>
-      Although the Dynabook never became a reality due to the technological
-      limitations of the time, its concepts later influenced the development of
-      personal computers, especially the design of laptops and tablets. Kay's
-      ideas also inspired initiatives such as the "One Laptop Per Child"
-      project, which aimed to develop and distribute a low-cost laptop known as
-      the "Children's Machine" to kids around the world.{" "}
-    </p>
-    <p>
-      Studies at the MIT Media Lab showed that children at the age of 5 can
-      already be introduced the basic concepts of programming, and by the age of
-      7, many can start coding.{" "}
+      This is also confirmed by research. Studies at the MIT Media Lab showed
+      that children at the age of 5 can already be introduced the basic concepts
+      of programming, and by the age of 7, many can start coding.{" "}
     </p>
     <p>
       Scratch, for instance, a visual programming language developed by the
       Lifelong Kindergarten Group, a research group at the MIT Media Lab, is
       recommended for ages 8 and up. It enables children to build complex
       programs by dragging and dropping graphical blocks that represent code
-      structures. Incredibly, with these tools, kids quickly become familiar and
-      proficient with core programming ideas such as loops, variables,
-      conditional statements, and event handling.
+      structures. Incredibly, with these tools, kids quickly become proficient
+      with core programming ideas such as loops, variables, conditional
+      statements, and event handling.
     </p>
     <p>
       ScratchJr, a simplified version of Scratch, was designed to introduce
@@ -445,9 +436,9 @@ const CodingPage = () => (
       becoming an essential skill in today's world.{" "}
     </p>
     <p>
-      The fact that children are able to start learning to code at a very early
-      age shows how much programming resonates with basic human thought
-      processes and creativity.{" "}
+      Most importantly, the fact that children can start learning to code at a
+      remarkably early age is evidence that programming aligns with fundamental
+      human thought processes and creativity.{" "}
     </p>
     <p className="text-2xl">The essence of programming</p>
     <p>
@@ -459,48 +450,55 @@ const CodingPage = () => (
       >
         simple answer
       </a>
-      : Everyone.{" "}
+      : everyone.{" "}
     </p>
 
     <p>
-      As I mentioned earlier, although I use programming for my job as a
+      As mentioned earlier, although I use programming for my job as a
       scientist, I am not a formally trained programmer. I guess the point I
       want to illustrate with my example is that not everyone who codes is a
       professional developer.{" "}
     </p>
     <p>
       My own coding journey took me from the Turbo Pascal programming language
-      (at the age of 12) through C and C# (at my early 20s), Java and MATLAB (at
-      my mid-20s) to Python, R and JavaScript, the programming languages I
-      mostly use today for my work.{" "}
+      (at the age of 12) through C and C# (my early 20s), Java and MATLAB (my
+      mid-20s) to Python, R and JavaScript, the programming languages I mostly
+      use today for my work.{" "}
     </p>
     <p>
-      Of course, it's not only computers that can be programmed. If you're
-      programming a more specialized device than a general-purpose computer, you
-      might not need a general-purpose programming language. Many
-      domain-specific programming languages are designed specifically for
-      instructing certain types of machines. Examples include the KUKA Robot
-      Language (KRL), which controls KUKA industrial robots, and the Zebra
-      Programming Language (ZPL), used for programming label printers to create
-      custom barcodes, QR codes, and other print designs.{" "}
+      There are hundreds (or even thousands) of programming languages in the
+      world.
     </p>
     <p>
-      So what is programming then? The concept can very broad, and we don't
+      Of course, not only computers can be programmed. If you program a more
+      specialized device than a general-purpose computer, you might not need a
+      general-purpose programming language. There are many domain-specific
+      programming languages designed specifically for instructing certain types
+      of machines. Examples include the KUKA Robot Language (KRL), which
+      controls KUKA industrial robots, and the Zebra Programming Language (ZPL),
+      used for programming label printers to create custom barcodes, QR codes,
+      and other print designs.{" "}
+    </p>
+    <p>
+      So what is programming then? The concept can be very broad, and we don't
       necessarily have to mention "computers" in the definition.
     </p>
     <p>
-      All it needs is someone (let's call her the "Programmer") who is able to
-      record a sequence of actionable steps (the "code"), and an agent
-      ("Executor") who understands and executes the list of instructions. Many
-      things can fit into this general equation. In some sense, cooking a dinner
-      based on a Potato & Leek Soup recipe from your favourite Julia Child
-      cookbook can also be regarded as executing a program - with you as the
-      Executor, the Potato & Leek Soup recipe as the code, and Julia Child as
-      the Programmer.{" "}
+      All it requires is someone (the "Programmer") who is able to record a
+      sequence of actionable steps (the "code"), and an agent (the "Executor")
+      who understands and executes the list of instructions.
     </p>
     <p>
-      (If you find this cooking example far-fetched, check out the idea of
-      "human programming", defined as "the practice of writing sequences of
+      {" "}
+      Many things can fit into this general equation. In some sense, cooking a
+      dinner based on a Potato & Leek Soup recipe from your favourite Julia
+      Child cookbook can also be regarded as executing a program - with you as
+      the Executor, the Potato & Leek Soup recipe as the code, and Julia Child
+      as the Programmer.{" "}
+    </p>
+    <p>
+      (If you find this cooking example far-fetched, check out the idea of{" "}
+      <i>human programming</i>, defined as "the practice of writing sequences of
       instructions for humans" in{" "}
       <a
         href="https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming"
@@ -510,9 +508,9 @@ const CodingPage = () => (
         this article
       </a>
       . The idea of writing "human programs" in a similar way software are coded
-      for computers has numerous real-life applications from training routines,
-      assembly line instructions, emergency evacuation procedures, to
-      educational curriculums, how-to guides and team-building exercises.){" "}
+      for computers has numerous real-life applications from emergency
+      evacuation procedures, and assembly line instructions, to educational
+      curriculums, how-to guides and team-building exercises.){" "}
     </p>
     <p>
       To put it simply, programming is about creating a sequence of operations
@@ -528,32 +526,36 @@ const CodingPage = () => (
       Computer programming is often considered a technical subject, and it
       indeed is, but as discussed above, there is something inherently human
       about it. It's a journey of exploration and expression. One must delve
-      deep into it to truly understand the amplifying effect if has on
-      creativity and imagination.{" "}
+      deep into it to truly understand the amplifying effect coding can have on
+      our creativity and imagination.{" "}
     </p>
 
     <p>
-      For me, personally, programming gives a feeling of accomplishment, and I
-      find it extremely stimulating, in many ways. I love breaking down complex
-      problems into simpler ones, building systems from the bottom up, and
-      seeing how things are taking shape. Just like many coders, I often find a
-      flow experience in programming.{" "}
+      People, as we have seen, write code for a variety of different reasons,
+      but the shared love for problem solving connects them.
     </p>
 
     <p>
-      The way we write code has been changing recently with the arrival of
+      For me, programming gives a feeling of accomplishment, and I find it
+      extremely stimulating, in many ways. I love breaking down complex problems
+      into simpler ones, building systems from the bottom up, and seeing how
+      things are taking shape. Just like many coders, I often find a flow
+      experience in programming.{" "}
+    </p>
+
+    <p>
+      The way we write code today has been changing recently with the arrival of
       Artificial Intelligence powered tools such as ChatGPT, OpenAI Codex, and
-      GitHub Copilot. These new technologies can multiply one's productivity
-      with the help of AI coding assistants that understand natural human
-      language. We can now describe our requirements as we would explain them to
-      another person, and the AI may generate the code for us in a split of a
-      second.{" "}
+      GitHub Copilot. These new technologies can multiply one's productivity. AI
+      coding assistants understand human language. One can now describe their
+      requirements as they would explain them to another person, and the AI may
+      generate the relevant code in a split of a second.{" "}
     </p>
 
     <p>
       {" "}
-      As OpenAI's Andrej Karpathy, former Senior Director of AI at Tesla,
-      phrased it perfectly on Twitter: "The hottest new programming language is
+      OpenAI's Andrej Karpathy, former Senior Director of AI at Tesla, phrased
+      it perfectly on Twitter: "The hottest new programming language is
       English."
     </p>
 
@@ -561,12 +563,6 @@ const CodingPage = () => (
       In my experience so far, using AI assistance in programming is not only
       not making it less enjoyable, but it actually makes the process even more
       exciting.{" "}
-    </p>
-
-    <p>
-      People, as we have seen, write code for a variety of different reasons,
-      but the shared love for problem solving connects them. Problem solving has
-      been at the core of the evolution of the human brain, among other factors.{" "}
     </p>
 
     <p>
@@ -578,10 +574,10 @@ const CodingPage = () => (
     </p>
 
     <p>
-      I have to confess, I feel really alive when I sit by the computer, create
-      a new file, begin staring at the empty screen, a blank canvas, the
-      blinking cursor. There's certainly an adrenaline rush in knowing it's only
-      up to me what is going to happen next.
+      I must admit, I feel really alive when I sit down to the computer, click
+      on creating a new file, and begin to stare at the empty screen, a blank
+      canvas, and the blinking cursor. There's certainly an adrenaline rush in
+      knowing it is only up to me what happens next.
     </p>
 
     <br />
@@ -598,7 +594,7 @@ const CodingPage = () => (
         style={{ marginBottom: `1.45rem` }}
       />
       <p>
-        Kids can pick up coding at an early age suggesting that programming
+        Kids can pick up coding at an early age, which suggests that programming
         resonates with basic human thought processes and creativity{" "}
       </p>
     </div>
