@@ -2,13 +2,16 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 import MyToggle from "../components/MyToggle"
 import { StaticImage } from "gatsby-plugin-image"
 
 const CodingPage = () => (
   <Layout>
-    <Seo title="Milestones" />
+    <SEO
+      title="Expanding our imagination with coding"
+      description="Expanding our imagination with coding (Márton Münz's website)"
+    />
     <p className="text-3xl">Expanding our imagination with coding</p>
 
     <p className="text-yellow-300 text-md pb-2">

@@ -2,13 +2,16 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 import MyToggle from "../components/MyToggle"
 import { StaticImage } from "gatsby-plugin-image"
 
 const HumanoidPage = () => (
   <Layout>
-    <Seo title="Milestones" />
+    <SEO
+      title="The illusion of making friends"
+      description="The illusion of making friends (Márton Münz's website)"
+    />
     <p className="text-3xl">The illusion of making friends</p>
     <p className="text-yellow-300 text-md pb-2">
       Sept 19, 2023 | Tech, Humans - 15 min read

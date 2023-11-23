@@ -2,13 +2,16 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 import MyToggle from "../components/MyToggle"
 import { StaticImage } from "gatsby-plugin-image"
 
 const MemoriesPage = () => (
   <Layout>
-    <Seo title="Milestones" />
+    <SEO
+      title="In loving memory of my first computer"
+      description="In loving memory of my first computer (Márton Münz's website)"
+    />
     <p className="text-3xl">In loving memory of my first computer</p>
     <p className="text-yellow-300 text-md pb-2">
       Apr 8, 2023 | Tech - 15 min read

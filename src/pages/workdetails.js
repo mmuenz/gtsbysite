@@ -3,11 +3,14 @@ import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 
 const WorkDetailsPage = () => (
   <Layout>
-    <Seo title="Work" />
+    <SEO
+      title="Work details"
+      description="Work details page (Márton Münz's website)"
+    />
     <p className="font-serif text-3xl mb-7">About my work (more details)</p>
     <p className="text-yellow-300">Coming soon...</p>
     <br />

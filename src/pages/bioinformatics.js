@@ -1,11 +1,14 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 
 const BioinformaticsPage = () => (
   <Layout>
-    <Seo title="Bioinformatics" />
+    <SEO
+      title="What on earth is Bioinformatics?"
+      description="What on earth is Bioinformatics? (Márton Münz's website)"
+    />
     <p className="text-3xl">What on earth is Bioinformatics?</p>
     <p>
       Bioinformatics is an interdisciplinary field that combines biology,

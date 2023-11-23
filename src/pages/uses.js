@@ -2,11 +2,14 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 
 const UsesPage = () => (
   <Layout>
-    <Seo title="Uses" />
+    <SEO
+      title="My digital toolbox"
+      description="My digital toolbox (Márton Münz's website)"
+    />
     <p className="text-3xl">My digital toolbox</p>
     <div>
       <p>

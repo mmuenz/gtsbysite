@@ -2,11 +2,14 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 
 const ManifestoPage = () => (
   <Layout>
-    <Seo title="A personal manifesto" />
+    <SEO
+      title="A personal manifesto"
+      description="A personal manifesto (Márton Münz's website)"
+    />
 
     <p className="text-3xl">A personal manifesto</p>
     <div>

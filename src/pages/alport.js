@@ -1,11 +1,14 @@
 import * as React from "react"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 
 const AlportPage = () => (
   <Layout>
-    <Seo title="Alport" />
+    <SEO
+      title="Alport Syndrome"
+      description="Alport Syndrome (Márton Münz's website)"
+    />
     <p className="text-3xl">Alport Syndrome</p>
 
     <p>

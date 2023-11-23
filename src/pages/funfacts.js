@@ -3,11 +3,14 @@ import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 
 const FunFactsPage = () => (
   <Layout>
-    <Seo title="Fun facts" />
+    <SEO
+      title="Fun Facts"
+      description="Fun Fact page (Márton Münz's website)"
+    />
     <p className="text-3xl">Fun facts about me</p>
     <p>
       ● I have spent 14473 days (1,250,467,200 seconds) on Earth up to this

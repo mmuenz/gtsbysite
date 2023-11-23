@@ -2,13 +2,16 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 import MyToggle from "../components/MyToggle"
 import { StaticImage } from "gatsby-plugin-image"
 
 const TelevisionPage = () => (
   <Layout>
-    <Seo title="Television" />
+    <SEO
+      title="The best television"
+      description="The best television (Márton Münz's website)"
+    />
     <p className="text-3xl">The best television</p>
     <p className="text-yellow-300 text-md pb-2">
       Nov 11 2023 | Life, Barcelona - 5 min read

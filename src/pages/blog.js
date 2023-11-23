@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 import YearBlock2023 from "../components/YearBlock2023"
 import YearBlock from "../components/YearBlock"
 
@@ -11,7 +11,8 @@ import BlogPost from "../components/BlogPost"
 
 const BlogPage = () => (
   <Layout>
-    <Seo title="Blog" />
+    <SEO title="Blog" description="Blog page (Márton Münz's website)" />
+
     <p className="text-3xl mb-7">Blog</p>
 
     <p className=" text-xl px-1">2023:</p>

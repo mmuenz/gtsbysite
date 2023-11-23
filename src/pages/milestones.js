@@ -1,11 +1,14 @@
 import * as React from "react"
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 import ToggleDiv from "../components/ToggleDiv"
 
 const MilestonesPage = () => (
   <Layout>
-    <Seo title="Milestones" />
+    <SEO
+      title="Milestones"
+      description="Milestones page (Márton Münz's website)"
+    />
     <span className="text-3xl">Milestones in my life</span>
     <div className="pt-5">
       <span>

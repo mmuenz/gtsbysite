@@ -3,11 +3,11 @@ import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/SEO"
 
 const NowPage = () => (
   <Layout>
-    <Seo title="Now" />
+    <SEO title="Now page" description="Now page (Márton Münz's website)" />
     <p className="font-serif text-md">
       Welcome to my /now page, a dynamic section on the website that offers a
       glimpse into my present focus, ongoing projects, and short-term goals. The
