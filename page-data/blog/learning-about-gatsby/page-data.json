@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
+    "path": "/blog/learning-about-gatsby/",
+    "result": {"data":{"markdownRemark":{"html":"<h2>What I'm Working On</h2>\n<p>Right now, I'm working through a <a href=\"https://www.digitalocean.com/community/tutorials\">DigitalOcean tutorial</a> on using <a href=\"https://www.gatsbyjs.com/\">Gatsby</a> with Markdown.</p>","frontmatter":{"date":"August 01, 2021","title":"Learning about Gatsby","category":"Science"}}},"pageContext":{"id":"a8671623-b34c-53ce-887e-13d46008b638","frontmatter__slug":"/blog/learning-about-gatsby","__params":{"frontmatter__slug":"blog"}}},
+    "staticQueryHashes": []}
