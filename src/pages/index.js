@@ -34,7 +34,7 @@ const IndexPage = () => (
 
         <p className="p-0 mx-0 my-2">This is me:</p>
         <StaticImage
-          src="../images/me.png"
+          src="../images/me.jpg"
           width={300}
           quality={95}
           formats={["auto", "webp", "avif"]}
