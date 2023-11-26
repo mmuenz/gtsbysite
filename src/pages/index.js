@@ -36,7 +36,7 @@ const IndexPage = () => (
         <StaticImage
           src="../images/me.jpg"
           width={300}
-          quality={95}
+          quality={85}
           formats={["auto", "webp", "avif"]}
           alt="me"
           style={{ marginBottom: `1.45rem` }}
