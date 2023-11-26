@@ -9,7 +9,7 @@ const BioinformaticsPage = () => (
       title="What on earth is Bioinformatics?"
       description="What on earth is Bioinformatics? (Márton Münz's website)"
     />
-    <p className="text-3xl">What on earth is Bioinformatics?</p>
+    <p className="text-3xl">What (on earth) is Bioinformatics?</p>
     <p>
       Bioinformatics is an interdisciplinary field that combines biology,
       computer science, and mathematics/statistics, aiming to analyze and
