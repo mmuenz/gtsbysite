@@ -7,10 +7,10 @@ import { Link } from "gatsby"
 const BioinformaticsMorePage = () => (
   <Layout>
     <SEO
-      title="What really is Bioinformatics"
-      description="What really is Bioinformatics (Márton Münz's website)"
+      title="What is Bioinformatics"
+      description="What is Bioinformatics (Márton Münz's website)"
     />
-    <p className="font-serif text-3xl mb-7">What really is Bioinformatics?</p>
+    <p className="font-serif text-3xl mb-7">What is Bioinformatics?</p>
     <p className="text-yellow-300">Coming soon...</p>
   </Layout>
 )
